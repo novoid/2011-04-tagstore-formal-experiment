@@ -1,0 +1,118 @@
+25:05 sotf
+
+25:08 ct "Das heißt ich muss jetzt überlegen."
+
+25:11 ce
+
+25:18 mkf dokumente
+25:27 mkf artikel
+25:31 renf "dokumente" "formulare"
+25:38 mkf fun
+25:40 mkf fotos
+
+25:53 mkf "öffis"
+26:13 mkf kraftwerke
+
+26:47 m2f 1 kraftwerke
+
+26:55 m2f 2 kraftwerke
+27:04 m2f 1 kraftwerke
+
+27:13 m2f 1 kraftwerke
+27:32 mkf urlaub 
+#Unterordner von fotos
+27:39 mkf diverses
+
+27:42 m2f 1 diverses
+
+27:49 mkf essen
+
+27:54 m2f 1 essen
+27:58 m2f 1 fun
+
+28:07 m2f 1 kraftwerke
+
+28:21 mkf blumen
+
+28:24 m2f 1 blumen
+
+28:30 m2f 1 formulare
+
+28:34 m2f 1 formulare
+
+28:38 m2f 1 formulare
+
+28:46 m2f 1 öffis
+
+28:51 m2f 1 öffis
+
+28:54 m2f 1 öffis
+
+28:57 m2f 1 diverses
+29:15 m2f 1 essen
+29:19 m2f 1 essen
+
+29:27 m2f 1 essen
+
+29:36 m2f 1 fun
+
+29:39 m2f 1 fun
+
+29:44 m2f 1 fun
+
+29:49 m2f 1 fun
+29:58 m2f 1 essen
+
+30:03 m2f 1 essen
+
+30:14 m2f 1 essen
+30:19 m2f 1 essen
+
+30:21 m2f 1 essen
+30:25 m2f 1 essen
+
+30:37 mkf diverses 
+#Unterordner von artikel
+
+30:45 mkf "urlaub-reise" 
+#Unterordner von artikel
+30:50 m2f 1 "urlaub-reise"
+31:12 mkf gesundheit
+31:15 m2f 1 gesundheit
+
+31:20 m2f 1 gesundheit
+
+31:27 m2f 1 diverses
+
+31:36 mkf garten
+31:39 m2f 1 garten
+31:41 m2f 1 garten
+31:47 m2f 1 "urlaub-reise"
+
+31:53 m2f 1 diverses
+
+31:56 m2f 1 diverses
+
+32:09 m2f 1 essen
+32:21 m2f 1 blumen
+32:37 m2f 5 urlaub
+32:52 mkf sport
+33:01 m2f 1 sport
+33:02 m2f 1 sport
+33:15 m2f 1 sport
+33:22 m2f 1 fun
+33:26 m2f 2 fun
+
+33:30 m2f 1 fun
+33:37 m2f 1 öffis
+33:44 m2f 1 fun
+33:53 m2f 1 fun
+
+34:02 m2f 1 diverses
+
+34:13 mkf dokumente 
+#Unterordner von Fotos
+
+34:15 m2f 2 dokumente
+
+34:19 eotf

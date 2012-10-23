@@ -1,0 +1,173 @@
+21:01 sott
+21:28 m2t 2
+22:13 ta 3
+22:22 ta 4
+22:23 eot
+23:05 m2t 1
+23:07 fb "Tagstore wird nicht aktiv im Vordergrund"
+23:15 fe
+23:28 ta 3
+23:29 eot
+23:40 ct "Kann ich mir ein zweites Fenster machen, damit ich alles in den tagstore ziehen kann?"
+23:49 ce
+#Testperson öffnet sich zweiten Explorer
+24:02 m2t 1
+24:23 ta 3
+24:24 eot
+24:41 m2t 1
+24:43 ta 2
+24:44 eot
+24:53 m2t 1
+25:05 ta 3
+25:06 eot
+25:18 m2t 1
+25:48 ta 3
+25:49 eot
+25:59 m2t 1
+26:09 ta 2
+26:10 eot
+26:17 m2t 1
+26:23 ta 3
+26:24 eot
+26:28 m2t 1
+26:38 ta 2
+26:39 eot
+26:55 ib
+26:58 ie
+27:02 m2t 2
+27:11 ta 2
+27:14 ta 2
+27:15 eot
+27:27 m2t 2
+27:35 ta 2
+27:36 ta 2
+27:37 eot
+27:44 m2t 2
+28:04 ta 3
+28:05 ta 3
+28:06 eot
+28:13 ib
+28:17 ie
+28:20 m2t 1
+28:25 ta 2
+28:26 eot
+28:30 m2t 1
+28:35 ta 3
+28:36 eot
+28:48 m2t 1
+28:57 ta 3
+28:58 eot
+29:03 m2t 1
+29:21 ta 3
+29:22 eot
+29:32 m2t 1
+29:41 ta 1
+29:42 eot
+30:20 m2t 1
+30:24 ta 1
+30:25 eot
+30:32 ct "Kann ich tags ändern?"
+30:40 ce
+30:42 m2t 1
+31:01 ta 3
+31:02 eot
+31:07 m2t 1
+31:13 ta 3
+31:14 eot
+31:19 m2t 1
+31:41 ta 1
+31:42 eot
+31:46 m2t 1
+31:59 ta 3
+32:00 eot
+32:07 m2t 1
+32:26 ta 3
+32:27 eot
+32:34 m2t 1
+32:50 ta 3
+32:51 eot
+33:00 m2t 1
+33:11 ta 3
+33:12 eot
+33:16 m2t 1
+33:21 ta 3
+33:22 eot
+33:27 m2t 1
+33:36 ta 3
+33:37 eot
+33:46 m2t 1
+33:55 ta 3
+33:56 eot
+#User löscht versehentlich Datei aus der Ablage und muss diese Datei neu verschieben und taggen
+34:06 m2t 1
+34:17 ta 3
+34:18 eot
+34:37 m2t 2
+35:01 ta 3
+35:16 ta 4
+35:17 eot
+35:37 m2t 1
+35:43 ta 3
+35:44 eot
+35:50 m2t 1
+36:01 ta 3
+36:02 eot
+36:10 m2t 1
+36:21 ta 3
+36:22 eot
+36:30 m2t 1
+36:36 ta 3
+36:37 eot
+36:40 ib
+36:42 ie
+36:49 m2t 1
+36:56 ta 3
+36:57 eot
+37:02 m2t 1
+37:13 ta 4
+37:14 eot
+37:31 m2t 2
+37:43 ta 3
+37:44 ta 3
+37:45 eot
+37:52 m2t 1
+38:01 ta 2
+38:02 eot
+38:12 m2t 1
+38:19 ta 3
+38:20 eot
+38:41 m2t 5
+38:56 ta 3
+39:00 ta 3
+39:01 ta 3
+39:01 ta 3
+39:06 ta 3
+39:07 eot
+39:15 m2t 1
+39:27 ta 3
+39:28 eot
+39:33 m2t 1
+39:36 ta 2
+39:37 eot
+39:43 m2t 1
+39:45 ta 1
+39:46 eot
+39:57 m2t 1
+40:12 ta 3
+40:13 eot
+40:19 m2t 1
+40:44 ta 4
+40:45 eot
+40:53 m2t 1
+40:58 ta 3
+40:59 eot
+41:06 m2t 1
+41:16 ta 2
+41:17 eot
+41:33 m2t 4
+41:42 ta 3
+41:48 ta 2
+41:55 ta 2
+42:04 ta 2
+42:05 eot
+42:06 eott

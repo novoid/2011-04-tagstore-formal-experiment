@@ -1,0 +1,70 @@
+35:40 sotf
+
+35:47 mkf Jux
+35:52 mkf Essen
+36:00 mkf Kraftwerke
+36:05 mkf Bilder
+37:03 m2f 8 Jux
+37:15 ct "Testperson kennt sich beim neuen Windows nicht aus, wann werden Dateien kopiert und wann werden Sie ausgeschnitten und eingefügt, und erzählt, dass es früher anders war "
+37:45 ce
+37:49 mkf Gesundheit
+38:20 m2f 1 Jux
+38:50 m2f 5 Bilder
+39:09 mkf Atomkraft
+39:28 m2f 1 Essen
+39:50 m2f 2 Kraftwerk
+40:20 mkf Stadtplan
+40:38 m2f 2 Stadtplan
+40:46 m2f 1 Atomkraft
+40:56 m2f 1 Bilder
+41:06 m2f 2 Essen
+41:14 m2f 1 Atomkraft
+41:21 m2f 1 Essen
+41:27 m2f 1 Gesundheit
+41:41 mkf Reisens
+41:59 m2f 3 Jux
+42:17 ib
+42:20 ie
+42:37 m2f 1 Bilder
+42:50 m2f 4 Essen
+42:55 ib
+42:58 ie
+43:01 m2f 1 Essen
+43:05 ib
+43:09 ie
+43:15 m2f 1 Gesundheit
+43:36 mkf Sport
+44:01 m2f 4 Sport
+44:13 m2f 2 Atomkraft
+44:24 m2f 1 Sport
+44:43 m2f 2 Stadtplan
+44:55 m2f 1 Sport
+44:59 m2f 1 Sport
+45:15 m2f 1 Reisen
+45:31 m2f 1 Bilder
+45:54 mkf Diverses
+46:00 ib
+46:04 ie
+46:06 m2f 1 Bild
+46:13 m2f 1 Gesundheit
+46:17 m2f 1 Gesundheit
+46:27 m2f 1 Jux
+46:49 mkf blabla
+47:12 m2f 2 blabla
+47:24 mkf Offizielles
+47:35 m2f 2 Offizielles
+47:41 ib
+47:44 ie
+47:46 ib
+47:48 ie
+47:51 m2f 1 Offizielles
+47:53 ib
+48:01 ie
+48:07 ib
+48:13 ie
+48:17 mvf 1 "Jux Diverses"
+48:22 m2f 1 Jux
+48:34 m2f 1 Essen
+48:46 mkf rezepte
+48:52 mvf 3 "Essen rezepte"
+49:28 eotf 

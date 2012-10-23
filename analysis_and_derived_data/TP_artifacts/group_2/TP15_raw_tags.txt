@@ -1,0 +1,60 @@
+Fukushima,Japan,Katastrophe,Atomkraft
+Atomkraft
+Allergie,Dokument,Medizin
+Antrag,Dokument,Familienbeihilfe
+Kochen,Apfelstrudel,Süßspeiße
+Witziges,Bild
+Bild,Österreich,Atomkraft,Nachbarstaaten
+Wiese,Blumen,Bild
+Witziges,Bild
+Kleine Zeitung,Dokument,Fernreisen,Artikel,Sommer
+Allergiker,Kleine Zeitung,Dokument,Artikel,Frühjahrsputz
+Frühling,Kleine Zeitung,Artikel,Dokument
+Wiese,Frühling,Blumen,Bild
+Gesundheit,Bild,Kochen,Gemüse
+Kinder,Kleine Zeitung,Artikel,Radfahren,Klimaschutz
+Gesundheit
+Zusammenfassung,Artikel,Formel 1
+Murinsel,Graz,Bild,Sightseeing
+GVB,Graz,Linie 3,Fahrplan,Sightseeing
+Antrag,Dokument,Hundeabgabe
+bild
+Bild,Atomkraft,Kernkraftwerk,Dokument
+Natur,Bild,Kirschblüte,Japan
+Witziges,Bild
+Artikel,selbermachen,Natur,Gesundheit,Kräuter,Kleine Zeitung
+Antrag,Dokument,Kulturförderung
+Liniennetz,Graz,Dokument,Linienplan
+Liniennetz,Dokument,Linienplan,Linz,Sightseeing
+Bild,Ars Elektronica Center,Linz
+Witziges,Bild
+Natur,Artikel,Magnolie,selbermachen
+Sport,Marathon,Bild,2009
+Staffelteam,Sport,Marathon,Persönlich
+Staffelteam,Triathlon,Sport,Persönlich
+Nietzsche,Witziges,Bild
+Nussschnecken,Kochen,Süßspeiße
+Natur,Gesundheit,Obst
+Witziges,Bild
+Wasserkraftwerk,Rundflug,Bilder,Usa,Sightseeing
+Siedewasser,Dokument,Bild,Reaktor,Schema
+Schnee,Schihuette,Sport,2011,Sightseeing
+Schnee,Sport,2010,Skifahren,Sightseeing
+Jause,Gesundheit,Ernährung
+Ernährung,Süßspeiße,Torte
+Witziges,Bild
+Japan,Bild,Sightseeing
+2009,Sommer,bild,Strand,Sightseeing
+Kleine Zeitung,Sommerzeit,Artikel,Dokument
+Gesundheit,Ernährung,Rezept,Spinatsalat
+Witziges,Bild
+Japan,Sushi,Ernährung,Bild
+Japan,Tokio,Linienplan,Sightseeing,Metromap
+Triathlon,Bild,Sport,2010
+Witziges,Bild
+Vettel,Sport,Formel 1
+Wasserkraftwerk,Dokument,Schema
+Witziges,Bild
+Schnee,Kleine Zeitung,Artikel,Österreich,Skifahren
+Witziges,Bild
+Zwiebelstrudel,Rezept,Ernährung

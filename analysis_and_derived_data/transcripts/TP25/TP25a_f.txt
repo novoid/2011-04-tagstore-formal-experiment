@@ -1,0 +1,46 @@
+#Testperson würde am liebsten die Dateien umbenennen, während der Erstellung der Ordnerstruktur. Moderator bittet ihm dies bei dem Test nicht zu tun!
+38:23 sotf
+38:53 m2o 38
+39:06 mkf bilder
+39:14 mkf comics
+39:37 ff 7 comics
+39:48 mkf Informationen 
+39:56 mkf urlaub
+40:03 mkf unwichtig
+40:13 mkf rezepte   
+40:18 ff 1 informationen
+40:30 ff 5 informationen 
+40:41 ff 2 rezepte
+41:07 mkf "Neuer Ordner"
+41:22 mkf events_sport
+41:39 ff 3 events_sport
+41:42 ff 1 information
+41:49 mkf graz
+41:57 ff 1 rezepte
+42:00 ff 1 rezepte
+42:15 mkf "schön" 
+42:17 ff 1 unwichtig
+42:22 ff 3 "schön" 
+42:31 mkf Linz
+42:36 ff 1 graz
+42:38 ff 1 linz
+42:41 ff 1 urlaub
+42:43 ff 1 urlaub
+42:48 ff 1 urlaub
+42:58 ff 1 Informationen
+
+43:26 mkf texte 
+43:32 mkf Zeitung 
+43:50 renf texte pdf_texte
+44:16 renf pdf_texte pdfs
+44:53 mkf Infos
+44:56 m2f 3 Infos
+45:14 mkf Formulare_Graz
+45:15 m2f 3 Formulare_Graz
+45:28 mkf Notizen
+45:29 m2f 2 Notizen
+46:16 mkf Zeitungsartikel
+46:17 m2f 11 Zeitungsartikel
+46:28 mkf Rezepte
+46:29 m2f 3 Rezepte
+46:34 eotf  

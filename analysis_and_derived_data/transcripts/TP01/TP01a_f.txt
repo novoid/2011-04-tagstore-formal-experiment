@@ -1,0 +1,178 @@
+01:47 sotf
+01:57 cf "Ich werde jetzt schnell den Ordner wieder leer machen."  
+# TP wuenscht zwei nebeneinanderliegenden Windows Explorer, und oeffnet diese.
+02:44 ce
+02:56 mkf Rezepte
+03:12 mkf Cartoons
+03:22 ct "TP merkt an, dass ist nicht sein Betriebssystem" 
+03:30 ce
+03:37 mkf eGovernment
+03:46 mkf Urlaub
+03:54 mkf Bilder
+04:05 ct "Ok, Fahrpläne waren da auch drinnen."
+04:10 ce
+04:16 mkf Fahrplan
+# Testperson will Ordner verschieben
+04:18 ct "Da habe ich schon das erste Problem."
+04:24 ce
+04:41 mkf News
+04:47 mkf AKW
+04:49 mvf 1 News
+04:59 mvf 1 Urlaub
+05:08 mkf Graz
+05:09 ct "So...gut. Jetzt habe ich das Problem, dass ich noch Unterordner habe. Dann mache ich das einmal rückgängig."
+05:24 ce
+# Testperson oeffnet sich ein weiteres Explorerfenster um direkten Zugriff auf Unterordner zu haben.
+05:38 m2f 1 AKW
+05:43 m2f 1 AKW
+05:45 ct "Darf ich die Dateien auch anschauen? F: Ja natürlich."
+05:48 ce
+05:49 ib
+05:51 ie
+05:55 m2f 1 Bilder
+05:59 m2f 1 eGovernment
+06:06 m2f 1 Bilder
+06:09 ib
+06:10 ie
+06:15 m2f 1 Cartoons
+06:32 ct "Das kann man ja alles gar nicht einordnen. Muss ich das alles einordnen? F: Ja bitte"
+06:36 ce
+06:42 mkf Unsorted
+06:47 m2f 1 Unsorted
+06:53 m2f 1 Bilder
+06:56 m2f 1 Cartoons
+07:02 m2f 1 Urlaub
+07:08 m2f 1 News
+07:12 ct "Ah da muss ich aufpassen."
+07:16 ce
+07:20 m2f 1 News
+07:25 m2f 1 Bilder
+07:28 m2f 1 Bilder
+07:36 m2f 1 News
+07:42 m2f 1 News
+07:47 m2f 1 News
+07:48 ct "Darf ich noch einen zweiten Durchgang machen? F: Ja sicher."
+07:51 ce
+07:53 m2f 1 Bilder
+08:17 ct "Was habe ich jetzt gemacht?"
+08:22 ce
+08:26 m2f 1 Graz
+08:30 m2f 1 eGovernment
+08:34 m2f 1 Bilder
+08:48 m2f 1 AKW
+08:52 m2f 1 Bilder
+08:58 m2f 1 Rezepte
+09:18 m2f 1 Unsorted
+09:27 mkf Howto
+09:31 m2f 1 Howto
+09:35 ib
+09:37 ie
+09:40 m2f 1 eGovernment
+09:44 m2f 1 Graz
+09:50 m2f 1 Urlaub
+09:57 m2f 1 Bilder
+10:02 ib
+10:04 ie
+10:07 m2f 1 Cartoons
+10:16 m2f 1 Howto
+10:23 mkf Garten
+10:27 ff 2 Garten
+10:37 m2f 1 Bilder
+10:52 mkf Sport
+10:56 m2f 1 Sport
+10:58 m2f 1 Sport
+11:06 m2f 1 Cartoons
+11:09 m2f 1 Cartoons
+11:12 m2f 1 Cartoons
+11:17 m2f 1 Cartoons
+11:21 m2f 1 Bilder
+11:30 m2f 1 AKW
+11:36 m2f 1 Bilder
+11:40 m2f 1 Bilder
+11:43 ct "murmelt etwas"
+11:48 ce
+11:50 m2f 1 Bilder
+11:53 ib
+12:01 ie
+12:06 m2f 1 Rezepte
+12:09 m2f 1 Bilder
+12:14 m2f 1 Cartoons
+# Testperson verschiebt eine Datei zurück auf I: da sie falsch einsortiert wurde.
+12:20 m2o 1
+12:29 m2f 1 Bilder
+12:32 ib
+12:33 ie
+12:37 m2f 1 Bilder
+12:47 m2f 1 News
+12:57 m2f 1 Rezepte
+13:03 ct "Testperson kommentiert, dass sie normalerweise Bilder nicht mit Ordnern verwalten würde."
+13:38 ce
+13:39 ib
+13:41 ie
+13:45 m2f 1 Cartoons
+13:47 ib
+13:48 ie
+13:51 m2f 1 Bilder
+13:52 ct "Testperson kommentiert noch einmal Bilderverwaltung."
+14:05 ce
+14:24 m2f 1 Fahrplan
+14:30 ib
+14:32 ie
+14:35 ct "Testperson kommentiert wieder Bilderzuordnung."
+14:39 ce
+# Testperson redet während der Zuordnung weiter
+14:40 m2f 1 Sport
+14:46 ib
+14:47 ie
+14:53 m2f 1 Cartoons
+15:02 ib
+15:03 ie
+15:07 m2f 1 Bilder
+15:10 ib
+15:12 ie
+15:13 ct "Jetzt wirds interessant. Dann muss ich mir das etwas überlegen."
+15:35 ce
+15:40 mkf Technik
+15:49 mvf 1 Technik
+15:54 m2f 1 Technik
+15:55 ct "Testperson kommentiert fragwürdige Zuteilung der Dateien."
+15:58 ce
+16:01 ib
+16:03 ie
+16:09 m2f 1 Cartoons
+16:11 ib
+16:14 ie
+16:20 m2f 1 Unsorted
+16:25 m2f 1 Cartoons
+16:29 m2f 1 Rezepte
+16:35 m2f 1 Bilder
+16:36 ct "Testperson kommentiert warum ein Bild in den Bilderordner kommt und nicht in Grazordner."
+17:01 ce
+# Testperson benennt Ordner Graz in Ordner MyHome um
+17:02 renf Graz MyHome
+17:03 ct "Testperson kommentiert seine Einteilung."
+17:08 ce
+17:09 ib
+17:10 ie
+17:13 m2f 1 Cartoons
+17:14 ct "Bilderkategorisierung kann ich bei diesem Test nicht wirklich machen."
+18:39 ce
+18:48 renf Sport "Sport und Gesundheit"
+18:49 ct "Testperson erklärt was in Sport und Gesundheit kommt."
+19:06 ce
+# Testperson redet die ganze Zeit weiter nebenher.
+19:07 ib
+19:10 ie
+19:36 ib
+19:38 ie
+19:42 ff 1 "Sport und Gesundheit"
+20:08 ff 1 AKW
+20:17 delf Unsorted
+20:23 eotf
+# Testperson verschiebt während Wie wars um 22:23 noch eine Datei von Rezepte nach Cartoons.
+# 22:23 ff 1 Cartoons
+# 23:00 mkf Linz
+# 23:03 ff 1 Linz
+# 23:06 delf Fahrplan
+# 23:18 mkf Tokyo
+# 23:21 ff 1 Tokyo

@@ -1,0 +1,14 @@
+Man hat mehr Ordner/tags durchzusehen.
+Oft fallen einem nicht gleich die Wörter ein. News hätte auch irgendwie anders sein können.
+Wenn man es öfters braucht, merkt man sich das auch.
+Mir kommt vor, man findet die Dinge schon schneller, weil man sofort die Möglichkeit hat auf einen
+neuen Tag zu gehn.
+Ich habe eigentlich nicht gleich auf die Dateien geschaut, sondern auf die weiteren Ordner/tags.
+
+Handling: Es ist normales Dateibrowsing. Das es mehrmals auftaucht ist ein Vorteil.
+
+Die Ansichten (Vorschaubilder) sind schon sehr hilfreich. Wer sagt z.B. das Ordner Bilder so
+dargestellt wird. Mit Detailansicht würde man die Bilder z.B. nicht so schnell finden.
+Das gehört eigentlich bei der Bilderbewertung mit rein.
+
+Kann man in diesem Ablageordner seine eigene Dateistruktur behalten?

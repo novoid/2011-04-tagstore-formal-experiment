@@ -1,0 +1,60 @@
+AKW,Krsko,Atomkraft,Österreich
+Fukushima,Kleine Zeitung,AKW,Atomkraft
+Fukushima,Druckwasserreaktor,AKW,Atomkraft
+Fukushima,Generation,AKW,Siedewasserreaktor,Atomkraft
+AKW,Österreich,Atomkraft
+satire,comic,feminismus
+satire,comic,feminismus
+satire,comic,feminismus
+u-bahn,tokyo
+wasserkraft,wasserkraftwerk,kraftwerk
+japan,foto,tokyo
+japan,foto,essen,sushi
+essen,bild
+japan,bild,sakura
+kräuter,essen,howto,garten
+jause,essen,arbeit
+essen,bild
+spinat,essen,rezept
+essen,rezept
+Kleine Zeitung,urlaub
+schifahren,bild
+schifahren,bild
+winterzeit,dst,sommerzeit,uhrenumstellung
+winterzeit,urlaub,schifahren
+formular,antrag,graz,familienbeihilfe
+formular,hundeabgabe,graz,antrag
+formular,0xff,graz,kulturförderung,antrag
+gvb,graz
+gvb,graz
+Frühling,Allergie,Kleine Zeitung,Tipps
+Frühling,Kleine Zeitung,Wetter
+Tipps,Kleine Zeitung
+Tipps,Kleine Zeitung,Gesundheit
+Kleine Zeitung,garten
+Kleine Zeitung,Formel 1
+Staffellauf,Team,Notiz
+Staffellauf,Team,Notiz
+Allergie,bild,Medizin
+bild,garten
+obst,essen,bild
+essen,bild
+blumen,bild,garten
+blumen,bild,garten
+comic,ruthe
+comic,ruthe
+comic,ruthe
+comic,ruthe
+comic,ruthe
+comic,nichtlustig.de
+comic,nichtlustig.de
+comic,nichtlustig.de
+nietzsche,comic,burrini
+graz,graz03,murinsel
+verkehrsnetz,linz
+aec,linz
+bild,urlaub
+bild,sport,marathon,2009
+Triathlon,bild,sport,2010
+sport,bild,Formel 1
+wasserkraft,wasserkraftwerk,bild,kraftwerk

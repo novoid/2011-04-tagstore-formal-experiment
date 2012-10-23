@@ -1,0 +1,5 @@
+Den einen Artikel, hätte ich mir nie den Aufwand angetan ordentlich einzuordnen.
+Das Übliche.
+Testspezifisch: Mit so wenigen Dateien und so einer flachen Hierarchie ist es kein Probleme die
+Dateien wiederzufinden, bis auf deinen einen Ausrutscher eben.
+In der Menge von Daten schlägt eine bessere Technologie sicher nicht durch.

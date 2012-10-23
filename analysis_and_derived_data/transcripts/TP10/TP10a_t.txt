@@ -1,0 +1,207 @@
+21:26 sott
+
+21:31 ct "Wie geht das? Jede Datei einzeln oder wie?"
+
+21:35 ce
+
+21:36 cf "Wie gesagt, man kann es einzeln machen, oder mehrere oder alle, wie man glaubt, dass es am besten oder einfachsten ist."
+21:42 ce
+21:49 ct "Ob man mehrere Stichwörter findet, so gesehen."
+
+21:54 ce
+22:36 ct "In die Ablage, oder?"
+
+22:38 ce
+
+22:39 cf "Genau!"
+
+22:40 ce
+
+22:44 m2t 3
+23:03 ta 2
+
+23:07 ta 2
+
+23:10 ta 2
+
+23:11 eot
+
+23:12 ct "Achso, da muss man gleich alle drei machen."
+
+23:14 ce
+
+#23:44 Testperson ändert wieder unabsichtlich die Ansicht
+
+23:44 ct "Entschuldigung."
+
+23:47 ce
+23:48 cf "Nichts passiert. Mit Steuerung und rauf und runter scrollen kann man die Ansicht ändern. Wie Sie es haben möchten."
+23:56 ce
+#24:50 Testperson vergisst ihre markierten Daten auszuschneiden
+
+24:53 ct "Ach, entschuldigung."
+
+25:01 ce
+
+25:47 ct "Und wenn ich die jetzt einfüge, dann stehen alle in einer Reihe da aber umgekehrt kann ich es."
+25:57 ce
+25:58 m2t 16
+25:59 cf "Genau, sie stehen alle drinnen."
+26:02 ce
+26:04 ta 1
+26:05 ta 1
+26:07 ta 1
+26:08 ta 1
+
+26:09 ta 1
+26:10 ta 1
+26:11 ta 1
+26:12 cf "Sie haben jetzt das letzte markiert. Scrollen Sie runter."
+
+26:17 ce
+
+26:18 ct "Geht es, dass man alle auf einmal taget?"
+
+26:22 ce
+
+26:27 cf "Alle kann man nicht. Sonst einfach beim ersten drauf klicken. Bestätigen kann man auch mit Enter. Das geht schneller."
+
+26:33 ce
+
+26:34 ct "Einfach nur Enter."
+26:35 ce
+
+#Testperson tagt die restlichen Dateien mit einem tag und bestätigt schnell mit Enter
+26:36 ta 1
+
+26:37 ta 1
+
+26:38 ta 1
+
+26:39 ta 1
+
+26:40 ta 1
+
+26:41 ta 1
+26:42 ta 1
+
+26:43 ta 1
+
+26:44 ta 1
+
+26:45 eot
+
+27:38 m2t 3
+
+#27:42 tagstore Fenster öffnet sich nicht
+
+27:46 cf "Bitte nocheimal versuchen."
+
+27:49 ce
+27:56 ta 1
+27:57 ta 1
+
+27:58 ta 1
+
+27:58 eot
+29:04 m2t 9
+#Testperson tagt die restlichen Dateien mit einem tag und bestätigt schnell mit Enter
+29:12 ta 1
+
+29:13 ta 1
+
+29:14 ta 1
+
+29:15 ta 1
+29:16 ta 1
+29:17 ta 1
+29:18 ta 1
+
+29:19 ta 1
+29:20 ta 1
+
+29:21 eot
+
+30:13 ct "Was hat sich jetzt getan?"
+30:15 ce
+
+30:16 cf "Irgendwo im freien Raum klicken, beispielsweise rechts draußen."
+
+30:21 ce
+
+30:24 m2t 12
+#Testperson tagt die restlichen Dateien mit einem tag und bestätigt schnell mit Enter
+30:32 ta 1
+
+30:33 ta 1
+30:34 ta 1
+
+30:35 ta 1
+
+30:36 ta 1
+
+30:37 ta 1
+
+30:38 ta 1
+
+30:38 ta 1
+30:39 ta 1
+
+30:40 ta 1
+30:41 ta 1
+
+30:42 ta 1
+30:43 eot
+31:15 m2t 7
+#Testperson tagt die restlichen Dateien mit einem tag und bestätigt schnell mit Enter
+
+31:21 ta 1
+
+31:22 ta 1
+
+31:23 ta 1
+31:24 ta 1
+31:25 ta 1
+
+31:26 ta 1
+
+31:27 ta 1
+31:29 eot
+31:31 ct "Jetzt hätte ich ein paar Dateien die wieder unter Fotos gehören, geht das jetzt noch irgendwie?"
+31:34 ce
+
+31:35 cf "Ja, man kann einfach wieder Fotos als tag vergeben."
+
+31:37 ce
+
+32:06 m2t 7
+
+#Testperson tagt die restlichen Dateien mit einem tag und bestätigt schnell mit Enter
+32:13 ta 1
+32:14 ta 1
+
+32:15 ta 1
+32:16 ta 1
+
+32:17 ta 1
+32:18 ta 1
+32:19 ta 1
+32:20 eot
+32:33 m2t 1
+32:38 ta 1
+32:40 eot
+33:06 m2t 4
+
+#Testperson tagt die restlichen Dateien mit einem tag und bestätigt schnell mit Enter
+33:12 ta 1
+33:13 ta 1
+
+33:14 ta 1
+
+33:15 ta 1
+33:16 eot
+33:26 m2t 1
+33:30 ta 1
+
+33:31 eot
+33:35 eott

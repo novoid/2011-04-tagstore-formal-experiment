@@ -1,0 +1,6 @@
+F: Wie wars?
+TP: Ganz gut.
+F: Kann man irgendwas positiv/negativ anmerken?
+TP: Nein. An sich kann man natürlich mehrere Stichwort zu einer Datei vergeben. An sich kann man natürlich
+eine Datei mit mehreren Ordnern teilen. Natürlich ist es dann leichter zu finden.
+Ich habe es ungefähr gleich angelegt wie beim 1. Mal, deswegen gibt es nicht viel Unterschied.

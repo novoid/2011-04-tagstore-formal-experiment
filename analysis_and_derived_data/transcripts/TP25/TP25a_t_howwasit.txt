@@ -1,0 +1,7 @@
+T: Wie gesagt jetzt würde ich's nachträglich wie meine Arbeitsweise ist nachtaggen. Man schaut es sich zwar vorher an, aber wenn man sich dann noch einmal damit anschaut, da würde einem da noch Tag Begriffe einfallen, ja das würde auf das und das besser gepasst, weil man nicht alle Wörter sofort hat. Oder auch nicht jede Beschreibung möglichst allgemeiner Begriff sofort einfallt. 
+F: Wie war es sonst?
+T: Ja, war ok, ist sicher sinnvoll ich würde mir so etwas schon wünschen, wenn das gut funktioniert. Wobei jetzt ich mich zusätzlich zu dem Ordner im Ordner im Ordner im Tag einschränkt irgendwie ein anderes Interface dafür wünschen würde, dass irgendwie keine Vorstellung wie das ausschauen könnte.
+F: Für das Ablegen oder für das Wiederfinden?
+T: Na fürs Wiederfinden. Also vielleicht nicht eine Tagcloud, weil das nicht so übersichtlich ist meistens, aber irgendetwas anderes. Irgendetwas was nicht unbedingt an die Verzeichnisstruktur sein muss.
+F: Gut, irgendetwas bei der Handhabung positiv oder negativ anzumerken?
+T: Na ich meine so kleine Bugs habe ich eh erwähnt dazwischen. Sonst ah, jo nein, außer Sachen die ich mir von der Usabiity besser machen könnte die ich schon erwähnt habe und abgesehen von der Idee, die ich super finde, fallt mir jetzt nix ein. 

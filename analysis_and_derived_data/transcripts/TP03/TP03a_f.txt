@@ -1,0 +1,69 @@
+01:56 sotf
+01:57 cf "Ich leere noch schnell die Ordner"
+02:10 ce
+02:36 mkf Atomkraft
+02:43 mkf Sport
+02:57 mkf Kochen_u_Essen
+03:15 mkf Formulare_Antraege
+03:43 mkf Fotos
+03:55 mkf Fun
+04:45 m2f 5 Atomkraft
+04:55 mkf Atomkraft
+05:06 mkf Wasserkraft
+05:09 renf Atomkraft Energie
+05:19 ff 4 Atomkraft
+05:21 ff 1 Wasserkraft
+#Es tritt eine Meldung auf, dass die Datei bereits im Zielordner vorhanden ist. User löscht Dateien.
+05:31 ct "Ist das jetzt neu bei Windows 7, dass er standardmässig kopiert statt verschiebt?"
+06:36 ce
+07:52 m2f 7 Kochen_u_Essen
+08:27 m2f 2 Formulare_Antraege
+09:24 mkf Fahrplaene
+09:51 m2f 4 Fahrplaene
+10:13 mkf Tips_Ratgeber
+10:41 ib
+10:43 ie
+11:14 m2f 7 Tips_Ratgeber
+11:18 ib
+11:20 ie
+11:49 ct "Ist leicht mit dieser Ansicht"
+11:58 ce
+12:24 m2f 8 Fun
+12:35 m2f 1 Atomkraft
+12:53 m2f 3 Fun
+13:26 m2f 7 Fotos
+13:40 ib
+13:41 ie
+13:45 m2f 1 Fotos
+14:16 m2f 4 Sport
+14:27 m2f 1 Fotos
+14:39 m2f 1 Kochen_u_Essen
+14:50 m2f 1 Kochen_u_Essen
+15:07 m2f 2 Sport
+15:15 m2f 1 Tips_Ratgeber
+15:22 m2f 1 Formulare_Antraege
+15:30 ib
+15:31 ie
+15:46 m2f 3 Tips_Ratgeber
+15:48 ib
+15:50 ie
+15:54 m2f 1 Fotos
+16:14 mkf Graz
+16:28 mkf Linz
+16:39 mkf Tokyo
+16:46 ff 1 Tokyo
+16:52 ff 1 Linz
+16:58 ff 2 Graz
+17:11 ib
+17:13 ie
+17:33 mkf Urlaub
+18:00 mkf Natur_Landschaft
+18:25 ff 5 Natur_Landschaft
+18:36 ff 5 Urlaub
+18:46 renf Natur_Landschaft Natur_Landschaft_divers
+19:05 mkf Medien
+19:12 mkf aktiv
+19:25 ff 2 aktiv
+19:36 ff 2 Medien
+19:45 ff 2 aktiv
+19:55 eotf

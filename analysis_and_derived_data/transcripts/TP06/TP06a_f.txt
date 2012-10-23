@@ -1,0 +1,57 @@
+01:59 sotf
+02:06 ct "Gibt es irgendein Limit?"
+02:10 ce
+02:16 mkf AKW
+02:51 m2f 4 AKW
+03:01 mkf Futter
+03:48 m2f 8 Futter
+03:56 mkf Comics
+04:36 m2f 5 Comics
+04:48 mkf "Grand Prix"
+05:25 m2f 2 "Grand Prix"
+05:35 mkf "Allergie Blumen"
+06:05 m2f 7 "Allergie Blumen"
+06:12 mkf Sport
+06:15 mvf 1 "Sport"
+06:21 mkf Laufen
+06:42 ib
+06:44 ie
+06:48 m2f 1 Comics
+07:12 m2f 1 Comics
+07:26 mkf Plaene
+07:50 m2f 4 Plaene
+07:58 mkf Formulare
+08:21 m2f 4 Formulare
+08:27 m2f 1 AKW
+08:48 m2f 4 Sport
+08:55 ff 2 Laufen
+09:10 m2f 1 Futter
+09:22 mkf Sightseeing
+09:42 m2f 4 Sightseeing
+09:52 mkf Urlaub
+09:54 mvf 1 Urlaub
+10:10 m2f 4 Urlaub
+10:15 m2f 1 AKW
+10:19 ib
+10:21 ie
+10:23 ib
+10:24 ie
+10:25 ib
+10:27 ie
+10:31 m2f 3 Comics
+10:33 ib
+10:35 ie
+10:37 m2f 1 AKW
+10:40 ib
+10:41 ie
+10:44 m2f 1 Comics
+10:54 m2f 1 "Allergie Blumen"
+11:06 mkf Gesundheit
+11:15 m2f 3 Gesundheit
+11:28 mkf Blumen
+11:30 ib
+11:32 ie
+11:40 ff 4 Blumen
+11:57 mkf Suess
+12:08 ff 4 Suess
+12:23 eotf

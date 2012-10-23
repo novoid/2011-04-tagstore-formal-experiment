@@ -1,0 +1,190 @@
+18:23 sott
+
+18:55 m2t 4
+19:30 ta 3
+
+19:43 ta 2
+
+19:58 ta 3
+
+20:06 ta 2
+20:07 eot
+20:47 m2t 1
+#20:51 tagsotre Manager öffnet sich nicht automatisch
+
+20:51 cf "Doppelklick falls es sich nicht öffnen lässt."
+20:59 ce
+21:25 ta 3
+
+21:26 eot
+
+21:28 ct "Kann ich es im Nachhinein hier verändern?"
+
+21:30 ce
+21:31 cf "Man könnte aber für den Test werden wir es dabei belassen."
+
+21:40 ce
+
+22:15 m2t 2
+22:28 ta 2
+
+22:35 ta 2
+
+22:36 eot
+23:23 m2t 3
+
+23:50 ta 2
+
+23:55 ta 2
+24:02 ta 2
+24:03 eot
+
+25:11 m2t 8
+
+25:30 ta 2
+25:38 ta 1
+
+25:46 ta 2
+
+25:51 ta 2
+
+25:55 ta 2
+
+26:18 ta 1
+
+26:25 ta 1
+
+26:39 ta 2
+26:40 eot
+
+27:30 m2t 2
+
+27:51 ta 1
+
+27:54 ta 1
+27:55 eot
+28:16 ib
+
+28:17 ie
+
+29:06 m2t 10
+
+29:21 ta 1
+
+29:26 ta 1
+
+29:28 ta 1
+
+29:32 ta 1
+
+29:34 ta 1
+
+29:36 ta 1
+29:38 ta 1
+
+29:40 ta 1
+29:42 ta 1
+
+29:44 ta 1
+
+29:45 eot
+30:03 m2t 1
+
+30:17 ta 2
+30:18 eot
+
+30:28 ib
+30:29 ie
+
+30:47 m2t 5
+
+31:07 ta 1
+31:11 ta 1
+31:13 ta 1
+
+31:19 ta 2
+31:22 ta 2
+31:23 eot
+
+31:32 ib
+31:33 ie
+31:38 ib
+31:40 ie
+
+31:58 m2t 4
+
+32:06 ta 1
+
+32:11 ta 1
+
+32:20 ta 1
+
+32:25 ta 2
+
+32:26 eot
+32:46 ib
+
+#Adobe Reader lässt sich nicht schließen
+
+#32:52 cf "Einfach runter klicken und dann geht's weiter."
+#32:56 ce
+
+32:57 ie
+
+33:11 m2t 4
+
+33:18 ct "Im Manager sind dann die anderen die ich schon verwendet habe drinnen?"
+
+33:20 ce
+33:21 cf "Nein, der Manager ist nur für Einstellungen und es werden nur die fünf angezeigt."
+
+33:28 ce
+
+33:42 ta 1
+33:46 ta 1
+33:48 ta 1
+33:51 ta 1
+
+33:52 eot
+34:16 m2t 4
+
+34:34 ta 3
+
+34:46 ta 2
+
+34:52 ta 2
+34:58 ta 1
+
+34:59 eot
+
+35:23 m2t 4
+
+35:57 ta 2
+36:06 ta 1
+36:15 ta 2
+36:18 ta 2
+36:19 eot
+
+36:25 ib
+36:32 ie
+36:47 m2t 3
+
+36:59 ta 1
+
+37:06 ta 1
+37:17 ta 2
+37:17 eot
+
+37:23 ib
+
+37:25 ie
+37:41 m2t 5
+
+37:53 ta 1
+
+38:09 ta 1
+38:17 ta 1
+38:26 ta 1
+38:30 ta 1
+38:31 eot
+38:36 eott

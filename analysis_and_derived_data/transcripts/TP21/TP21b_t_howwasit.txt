@@ -1,0 +1,7 @@
+﻿F: Wie war's?
+T: Ja, ist überraschend gut gegangen eigentlich, das hab mir gar nicht erwartet.
+F: Ok. Gibt es was positives oder was negatives anzumerken?
+T: Na.
+F: Hat Sie das System unterstützt oder nicht unterstützt, war es einfach oder schwer?
+T: Es war zuerst die Menge an Ordnern ein bisschen erschlagend, aber, na es war schon unterstützend kann man schon sagen.
+F: Ok.

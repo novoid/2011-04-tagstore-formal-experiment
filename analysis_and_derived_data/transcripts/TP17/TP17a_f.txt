@@ -1,0 +1,50 @@
+28:50 sotf
+
+28:53 ct "Nur eine Hierarchieebene? Keine Unterteilung in Unterordner?"
+
+28:56 ce
+28:57 cf "So wie Sie es für logisch sehen. Wenn für Sie Unterordner angebracht wären dann schon."
+
+29:04 ce
+
+30:19 mkf Comics
+
+30:23 m2f 11 Comics
+30:46 mkf Bilder
+
+32:14 m2f 19 Bilder
+
+33:22 mkf Atomkraft
+
+33:26 m2f 6 Atomkraft
+
+33:43 mkf Wasserkraft
+
+33:46 ff 6 Wasserkraft
+34:16 ff 5 Atomkraft
+35:02 mkf Anträge
+
+35:05 m2f 3 Anträge
+36:07 mkf Zeitungsberichte
+
+36:10 m2f 12 Zeitungsberichte
+36:54 mkf "Eigene Dokumente"
+36:58 m2f 2 "Eigene Dokumente"
+37:41 mkf öffis
+
+37:44 m2f 4 öffis
+
+37:49 ib
+
+37:51 ie
+
+37:56 ib
+
+37:58 ie
+
+38:04 m2f 1 Comics
+
+38:13 m2f 1 Zeitungsberichte
+38:24 m2f 1 Bilder
+
+38:29 eotf

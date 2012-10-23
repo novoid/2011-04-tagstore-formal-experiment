@@ -1,0 +1,82 @@
+51:10 sotf
+
+#Testperson öffnet zweites Fenster
+
+51:32 mkf Dokumente
+52:03 ib
+52:05 ie
+
+54:09 m2f 32 Dokumente
+54:23 mkf Ernährung
+
+54:56 ff 9 Ernährung
+55:08 mkf Technik
+
+55:16 ib
+
+55:18 ie
+
+55:20 ib
+
+55:22 ie
+
+55:56 ff 3 Technik
+
+56:06 mkf Artikel
+
+56:40 renf "Artikel" "Atomkraft"
+
+56:54 ff 3 Atomkraft
+
+57:03 mkf Gesundheit
+
+57:22 ff 3 Gesundheit
+
+57:43 mkf "Anträge-Formulare"
+57:54 ff 3 "Anträge-Formulare"
+
+58:04 mkf Reisen
+58:32 ff 5 Reisen
+
+58:42 mkf Sport
+
+58:57 ff 5 Sport
+
+59:02 mkf Graz
+
+59:08 ff 2 Graz
+
+59:25 ff 1 Technik
+
+59:35 renf "Technik" "Wissenschaft - Technik"
+
+59:40 renf "Anträge-Formulare" "Anträge - Formulare"
+
+59:48 mkf Natur
+
+59:54 ib
+59:57 ie
+
+1:00:39 renf "Natur" "Garten"
+
+1:00:41 ff 1 Garten
+1:00:51 mkf Witziges
+1:01:20 m2f 12 Witziges
+
+#Testperson kopiert die Dateien anstatt sie auszuschneiden und muss sie nachträglich löschen (bis 1:01:42)
+
+1:02:02 m2f 2 Garten
+1:02:10 m2f 1 Graz
+1:02:26 m2f 1 Garten
+
+1:02:42 m2f 1 Reisen
+1:02:46 m2f 1 Reisen
+
+1:02:50 m2f 1 Reisen
+
+1:02:58 m2f 3 Reisen
+
+1:03:14 m2f 2 Ernährung
+
+1:03:20 m2f 1 Sport
+1:03:23 eotf

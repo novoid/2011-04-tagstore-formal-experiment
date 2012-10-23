@@ -1,0 +1,81 @@
+01:43 sotf
+02:16 mkf Kraftwerke
+02:26 renf "Kraftwerke" "Energie-Strom"
+02:35 m2f 2 "Energie-Strom" 
+02:54 mkf Kochen
+03:04 mkf Formulare
+03:08 m2f 1 "Energie-Strom"
+03:19 ib
+03:23 ie
+03:33 m2f 1 Formulare
+03:43 mkf Reisen
+03:53 m2f 1 Kochen
+04:26 m2f 6 Reisen
+04:39 m2f 1 "Energie-Strom"
+04:40 ct  "Wie lange haben wir Zeit?"
+04:42 cf "So lange wie Sie brauchen."
+04:44 ce
+04:53 mkf Sport
+05:05 m2f 5 Sport
+05:15 m2f 3 Reisen
+05:31 m2f 4 Kochen
+05:48 m2f 4 Kochen
+06:00 m2f 3 Kochen
+06:10 m2f 2 Formulare
+06:23 m2f 2 "Energie-Strom"
+06:46 mkf Comics
+06:53 m2f 1 Sport
+07:00 m2f  1 Reisen
+07:16 ib
+07:19 ie
+07:33 ib
+07:35 ie
+07:50 m2f 3 Reisen
+08:08 mkf Bilder
+08:11 ib
+08:15 ie
+08:19 ib
+08:21 ie
+08:22 ib
+08:29 ie
+08:33 m2f 3 Comics
+08:48 ib
+08:50 ie
+08:51 ib
+08:52 ie
+08:54 ib
+08:55 ie
+08:57 ib
+09:05 ie
+09:09 m2f 1 Bilder
+09:20 m2f 4 Comics
+09:23 ib
+09:29 ie
+09:35 m2f 1 Bilder 
+09:39 ib
+09:46 ie
+09:52 m2f 1 Comics
+10:11 mkf KnowHow
+10:16 m2f 3 KnowHow
+10:22 ib
+10:23 ie
+10:26 m2f 1 Bilder
+10:28 ib # "Ist da ein echtes Arbeitszeugniss gemeint, oder so wie es ist da?"
+10:34 ie
+10:35 m2f 1 Comics
+10:43 m2f 1 Bilder
+10:51 m2f 1 Bilder
+11:00 m2f 1 Comics
+11:04 m2f 1 Comics
+11:12 m2f 1 KnowHow
+11:27 mkf Fotos
+11:32 ff 5 Fotos
+11:39 mvf 1 Bilder
+11:42 mvf 1 KnowHow
+11:59 mkf "Neuer Ordner"
+12:00 delf "Neuer Ordner"
+12:06  mvf 1 KnowHow
+12:20 mkf Dokumente
+12:24 mvf 2 Dokumente
+12:32 mvf 2 Dokumente
+12:51 eotf

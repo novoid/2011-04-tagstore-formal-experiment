@@ -1,0 +1,103 @@
+34:18 sotf
+34:34 m2o 60
+34:47 mkf Fun
+34:51 ff 1 Fun
+34:54 ib
+34:55 ie
+34:58 ff 1 Fun
+35:09 ib
+35:10 ie
+35:16 ff 1 Fun
+35:30 ib
+35:33 ie
+35:37 ff 1 Fun
+35:42 ib
+35:43 ie
+35:49 ff 1 Fun
+35:54 ib
+35:56 ie
+36:03 ff 1 Fun
+36:08 ib
+36:10 ie
+36:14 ff 1 Fun
+36:26 ff 1 Fun
+36:39 ff 1 Fun
+36:49 ib
+36:50 ie
+36:56 ff 1 Fun
+37:12 mkf Kraftwerke
+37:19 mkf AKW
+37:25 mkf Sonstige
+38:11 ff 5 AKW
+38:25 ff 1 Sonstige
+38:38 mkf Formulare 
+38:46 ib
+38:48 ie
+39:05 ff 3 Formulare
+39:17 ib
+39:19 ie
+39:23 ff 1 Fun
+39:35 mkf Reisen
+40:34 ff 7 Reisen
+40:54 mkf "Gesundheit und Ernährung"
+40:57 ff 1 "Gesundheit und Ernährung"
+40:59 ib
+41:01 ie
+41:03 ff 1 "Gesundheit und Ernährung"
+41:06 ff 1 "Gesundheit und Ernährung"
+41:10 ib
+41:12 ie
+41:19 ff 1 Reisen
+41:27 ff 1 "Gesundheit und Ernährung"
+41:32 ff 1 "Gesundheit und Ernährung"
+41:35 ff 1 "Gesundheit und Ernährung"
+41:41 ff 1 "Gesundheit und Ernährung"
+41:43 ff 1 "Gesundheit und Ernährung"
+41:51 ff 1 Reisen
+41:56 ff 1 "Gesundheit und Ernährung"
+41:59 ib
+42:07 ie
+42:13 ff 1 "Gesundheit und Ernährung"
+42:20 ff 1 "Gesundheit und Ernährung"
+42:25 ff 1 Fun
+42:30 ff 1 "Gesundheit und Ernährung"
+42:34 ff 1 "Gesundheit und Ernährung"
+42:43 mkf Sport
+42:45 ff 1 Sport
+42:47 ff 1 Sport
+42:49 ib
+42:53 ie
+42:58 ff 1 Reisen
+43:08 renf Reisen "Reisen und Urlaub"
+43:21 ff 1 Sport
+43:23 ff 1 Sport
+43:25 ff 1 Sport
+43:31 ib
+43:32 ie
+43:36 ff 1 Sport
+43:46 mkf Pflanzen
+43:48 ff 1 Pflanzen
+43:50 ff 1 Pflanzen
+43:54 ib
+43:55 ie
+43:58 ff 1 Pflanzen
+43:59 ib
+44:06 ie
+44:12 mkf Misc
+44:15 ff 1 Misc
+44:20 ff 1 "Reisen und Urlaub"
+44:21 ff 1 "Gesundheit und Ernährung"
+44:24 ib
+44:25 ie
+44:27 ff 1 Pflanzen
+44:28 ff 1 "Reisen und Urlaub"
+44:31 ib
+44:35 ie
+44:41 ff 1 "Reisen und Urlaub"
+44:42 ib
+44:45 ie
+44:48 ff 1 Misc
+45:25 eotf
+
+
+

@@ -1,0 +1,269 @@
+07:34 sott
+07:45 m2t 1
+08:02 ta 3
+08:03 eot
+08:12 m2t 1
+08:13 fb "Wenns einfach net geht, dann bitte doppelcklicken!"
+08:18 fe
+08:31 ta 3
+08:32 eot
+08:47 m2t 1
+09:00 ta 2
+09:01 fb "Den Manger bitte ignorieren f\374r den Test, der ist f\374r interne Konfiguration"
+09:06 fe
+09:06 eot
+09:23 m2t 1
+09:36 ta 2
+09:37 eot
+09:50 m2t 1
+10:02 ta 2
+10:03 eot
+10:08 ib
+10:10 ie
+10:19 m2t 1
+10:27 ta 2
+10:28 eot
+10:32 ib
+10:34 ie
+10:45 m2t 1
+10:47 ta 1
+10:48 eot
+10:50 ib
+10:57 ie
+10:58 ct "es wurmt mi seit ewigkeiten das das Ding mit escape net beendbar ist"
+11:05 ce
+11:10 m2t 1
+11:15 ta 2
+11:15 eot
+11:18 ib
+11:21 ie
+11:27 m2t 1
+11:34 ta 2 
+11:35 eot
+11:40 ib
+11:42 ie
+11:48 m2t 1
+11:58 ta 3
+11:58 eot
+12:05 ib
+12:07 ie
+12:15 m2t 1
+12:42 ta 2
+12:43 eot
+12:45 cf "Entschuldigen sie jetzt muss ich nocheinmal nachfragen, sie haben mich vorhin gefragt, ob sie mehrere Dateien gleichzeitig zu taggan, war damit gemeint, hmm diese gleichzeitig zu verschieben oder Tags zu vergeben?"
+12:54 ct "Alle gleichzeitig zu verschieben und allen den gleichen Tag zu vergeben"
+12:55 cf "Ja nat\374rlich das geht schon!"
+12:57 ct "Das w\344re bei den Blumen net so uncool gewesen!"
+12:59 cf "Ja nat\374rlich! Ich habe n\344mlich gedacht, sie wollen, den einen Tag auf einmal allen Datein zuweisen, das geht nicht ganz, aber der Tag der mal f\374r die erste Datei vergeben wurde, der bleibt erhalten, und dann kann man sequentiel sehr einfach..."
+13:15 ct "ok, das werden wir gleich einmal mit dem Liniennetzen ausprobieren wie das so funktioniert"
+13:20 ce
+13:23 cf "dann habe ich sie falsch verstanden vorher"
+13:23 ce
+13:36 m2t 4
+14:20 ta 3
+14:29 ta 3
+14:35 ta 3
+14:43 ta 3
+14:44 eot
+14:44 ct "Und das funktioniert cool"
+14:45 ce
+15:08 m2t 2
+15:20 ta 2
+15:25 ta 1
+15:25 eot
+15:35 ib
+15:39 ie
+15:46 m2t 1
+15:59 ta 2
+15:59 eot
+16:04 ib
+16:13 ie
+16:25 m2t 1
+16:36 ta 3
+16:37 eot
+16:39 ct "Ist es case sensitiv eigentlich?"
+16:42 cf "Nein"
+16:43 ct "OK"
+16:43 ce
+16:47 cf "Obwohl case sensitiv ja, das hei\337t automatisch gro\337schreibung"
+16:51 ct "ok"
+16:51 ce
+16:56 ct "Weil wenn da ein Folder angelegt wird, er so und so an sich nicht case sensitiv ist im Betriebssystem"
+17:01 ce
+17:02 cf "genau"
+17:02 ct "Ist eigentlich wurscht"
+17:03 cf "und man kann sich nicht vertun, wenn man gro\337 und klein schreibt"
+17:06 ce
+17:09 m2t 1
+17:18 ta 3
+17:19 eot
+17:46 m2t 2
+18:02 ta 2
+18:07 ta 2
+18:07 eot
+18:10 ib
+18:12 ie
+18:23 m2t 3
+18:52 ta 2
+18:57 ta 2
+19:02 ta 2
+19:02 eot
+19:14 m2t 1
+19:21 ta 1
+19:21 eot
+19:28 ib
+19:38 ie
+19:45 m2t 1
+20:08 ta 4
+20:08 eot
+20:14 m2t 1
+20:18 ta 2
+20:19 eot
+20:23 ib
+20:25 ie
+20:30 m2t 1
+20:41 ta 3
+20:41 eot
+20:46 ib
+20:49 ie
+20:52 m2t 1
+21:00 ta 2
+21:00 eot
+21:07 m2t 1
+21:24 ta 3
+21:24 eot
+21:33 m2t 1
+21:45 ta 2
+21:45 eot
+21:50 ib
+21:52 ie
+21:56 m2t 1
+22:02 ta 2
+22:02 eot
+22:06 ib
+22:09 ie
+22:13 m2t 1
+22:20 ta 2
+22:20 eot
+22:26 ib
+22:28 ie
+22:33 m2t 3
+22:50 ta 2
+22:56 ta 3
+23:00 ta 3
+23:00 eot 
+23:09 ct "Gibt es die M\366glichkeit Tags zu \344ndern?"
+23:13 cf "F\374r den Test werden wir es nicht ber\374cksichtigen, sie k\366nnen es einfach dabei belassen"
+23:16 ct "ok"
+23:17 ce
+23:33 m2t 1
+23:49 ta 2
+23:49 eot
+23:54 ib
+23:59 ie
+24:07 m2t 2
+24:17 ta 2
+24:23 ta 3
+24:23 eot
+24:28 ib
+24:32 ie
+24:37 m2t 1
+24:49 ta 3
+24:49 eot
+24:55 ib
+24:56 ie
+25:00 m2t 1
+25:18 ta 4
+25:18 eot
+25:22 ib
+25:24 ie
+25:25 m2t 1
+25:42 ta 3
+25:42 eot
+25:48 ib
+25:50 ie
+25:54 m2t 1
+26:06 ta 3
+26:06 eot
+26:10 ib
+26:12 ie
+26:16 m2t 1
+26:18 ta 1
+26:18 eot
+26:21 ib
+26:22 ie
+26:26 m2t 1
+26:34 ta 3
+26:34 eot
+26:42 ib
+26:44 ie
+26:52 m2t 1
+27:04 ta 3
+27:04 eot
+27:09 ib
+27:10 ie
+27:13 m2t 1
+27:16 ta 1
+27:16 eot
+27:20 ib
+27:22 ie
+27:25 m2t 1
+27:39 ta 3
+27:39 eot
+27:41 ib
+27:44 ie
+27:48 m2t 1
+27:52 ta 2
+27:52 eot
+27:55 ct "Man kommt erst mit der Zeit drauf wie d\344mlich man eigentlich die Dinge getagt hat"
+27:59 ce
+28:00 m2t 1
+28:01 ct "Das man da viel, wesentlich inteligenter h\344tte vorgen k\366nnen"
+28:05 ce
+28:10 ta 1
+28:11 eot
+28:14 ib
+28:17 ie
+28:20 m2t 1
+28:31 ta 3
+28:31 eot
+28:37 m2t 1
+28:43 ta 3
+28:43 eot
+28:50 m2t 1
+28:55 ta 2
+28:55 eot
+29:00 m2t 1
+29:09 ta 3
+29:10 eot
+29:12 ib
+29:14 ie
+29:17 m2t 1
+29:22 ta 1
+29:22 eot
+29:28 m2t 1
+29:38 ta 2
+29:38 eot
+29:40 ib
+29:42 ie
+29:45 m2t 1
+29:56 ta 3
+29:56 eot
+29:59 ib
+30:00 ie
+30:04 m2t 1
+30:21 ta 4
+30:22 eot
+30:27 m2t 1
+30:29 ct "Gibt es eigentlich die M\366glichkeit, die Dokumente direkt im default Ordner einfach in die Ablagan zu ziehen und dann, die automatisch zu taggen?"
+30:33 ce
+30:39 ta 2
+30:39 eot
+30:40 eott
+ 
+
+
+
+
+
+

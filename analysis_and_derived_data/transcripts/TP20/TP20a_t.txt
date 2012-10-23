@@ -1,0 +1,91 @@
+07:37 sott
+07:48 ct "Gibt es irgendein Maximum"
+07:53 cf Nein
+07:54 ce
+08:07 m2t 60
+08:38 ta 4
+09:17 ta 3
+09:36 ta 3
+09:59 ta 2
+10:15 ta 2
+10:38 ta 1
+11:07 ta 3
+11:14 ta 2
+11:35 ta 1
+12:15 ta 4
+12:43 ta 2
+13:02 ta 2
+13:18 ta 2
+13:42 ta 4
+13:49 ta 2
+14:11 ta 3
+14:36 ta 3
+14:57 ta 3
+15:32 ta 3
+15:41 ta 2
+16:06 ta 3
+16:24 ta 2
+16:47 ta 2
+17:03 ta 2
+17:16 ta 3
+17:46 ta 3
+17:57 ta 2
+18:35 ta 2
+18:54 ct "Die habe ich nima im Kopf"
+18:55 ct "Das sind alles die gleichen die ich drüben gehabt habe?"
+19:00 cf "Man kann sie notfalls nochmal anschauen?"
+19:03 ce
+19:15 ta 3
+19:36 ta 3
+19:53 ta 2
+20:03 ta 2
+20:36 ta 3
+20:59 ta 4
+21:31 ta 3
+21:49 ta 3
+22:28 ta 3
+22:59 ta 4
+23:17 ta 2
+23:35 ta 3
+23:54 ta 2
+24:30 ta 4
+25:06 ta 3
+25:20 ta 3
+25:36 ta 3
+26:02 ta 3
+26:24 ta 3
+26:51 ta 3
+26:57 ib
+27:15 ie
+27:46 ta 2
+27:48 ib
+27:54 ie
+28:18 ta 3
+28:35 ta 3
+28:51 ta 3
+29:05 ib
+29:09 ie
+29:20 ib
+29:28 ie
+29:46 ta 4
+29:50 ib
+30:01 ie
+30:19 ta 4
+30:21 ib
+30:38 ie
+31:01 ta 4
+31:23 ta 3
+31:25 ib
+31:31 ie
+31:44 ta 3
+32:17 ta 4
+32:18 ib
+32:26 ie
+32:53 ta 5
+32:58 ib
+33:22 ie
+33:48 ta 2
+33:48 eot
+33:49 eott
+
+

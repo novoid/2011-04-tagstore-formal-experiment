@@ -1,0 +1,106 @@
+25:16 sott
+25:29 m2t 60
+25:38 ct "Jetzt kann ich sie mir aber nicht mehr anschaun. Was ist, wenn ich auf später bearbeiten klicke?"
+25:53 ce
+26:05 ct "Nach Datum finden kann ich es dann nicht automatisch? Dass die irgendwie nach Tagdatum abgelegt werden?"
+26:31 ce
+26:44 ct "Was ist der Manager Button?"
+26:48 ce
+26:49 ta 4
+26:56 ta 4
+27:15 ta 1
+27:27 ta 1
+27:37 ta 2
+27:38 ib
+27:40 ie
+27:48 ta 2
+28:04 ta 4
+28:12 ib
+28:13 ie
+28:17 ta 1
+28:21 ta 2
+28:25 ib
+28:30 ie
+28:41 ct "Ich hab da ja schon mehr tags eingegeben. F: Es werden nicht immer alle angezeigt."
+28:45 ce
+28:51 ta 2
+28:55 ct "Jetzt habe ich ja schon vergessen was ich alles vergeben habe."
+29:02 ce
+29:22 ta 3
+29:26 ib
+29:33 ie
+29:46 ta 3
+29:56 ta 2
+29:57 ct "Was ist, wenn ich zweimal den gleichen tag vergebe?"
+30:00 ce
+30:05 ta 2
+30:07 ta 1
+30:14 ta 2
+30:19 ta 2
+30:31 ta 3
+30:40 ta 2
+30:56 ta 3
+31:05 ta 2
+31:28 ta 4
+31:37 ib
+31:39 ie
+31:41 ta 1
+31:44 ib
+31:52 ie
+31:56 ta 2
+32:09 ta 1
+32:18 ta 1
+32:23 ta 2
+32:33 ta 2
+32:35 ta 1
+32:46 ta 3
+32:54 ta 2
+32:57 ta 2
+33:00 ta 2
+33:04 ta 1
+33:05 ib
+33:07 ie
+33:10 ta 2
+33:22 ta 1
+33:31 ta 3
+33:40 ta 2
+33:44 ta 2
+33:53 ta 2
+34:01 ta 2
+34:05 ta 2
+34:10 ta 1
+34:19 ta 2
+34:24 ib
+34:26 ie
+34:35 ta 3
+34:39 ta 1
+34:47 ta 3
+34:54 ta 2
+35:03 ta 2
+35:11 ta 3
+35:14 ib
+35:15 ie
+35:18 ib
+35:19 ie
+35:21 ib
+35:22 ie
+35:25 ta 2
+35:30 ta 3
+35:42 ta 4
+35:48 ct "Also ihr braucht da dringend eine Vorschau von der aktuellen Datei."
+35:49 ce
+35:50 ib
+36:01 ie
+36:08 ta 2
+36:24 ta 3
+36:36 ta 2
+36:40 ta 1
+36:46 ta 2
+36:53 ib
+36:55 ie
+36:59 ta 2
+37:08 ib
+37:11 ie
+37:14 ta 2
+37:15 eot
+37:16 eott

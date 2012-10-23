@@ -1,0 +1,11 @@
+F: Wie wars?
+TP: Bis auf den einen Ausreißer ist es gegangen.
+F: Wars eher schwer oder leicht?
+TP: Nachdem ich nur nach einem tag suchen kann, hat es das Suchen nicht beschleunigt.
+Mir hätte es mehr geholfen, wenn ich 2 oder 3 tags gleichzeitig hätte suchen können, dann wäre
+ich wahrscheinlich schneller gewesen.
+F: Wie würden Sie sich das vorstellen?
+TP: Dass ich 2-3 tags eintippe und zutreffende Dateien, dann in einem Fenster präsentiert bekomme.
+F: Mit einem eigenen Interface sozusagen.
+TP: Ja genau.
+

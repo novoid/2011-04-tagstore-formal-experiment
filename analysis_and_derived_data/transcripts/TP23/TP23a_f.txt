@@ -1,0 +1,139 @@
+34:10 sotf
+34:36 mkf Behörde
+34:44 mkf fun
+34:49 mkf Bilder
+
+35:02 mkf "Neuer Ordner"
+# Achse da muss ich da einig gehen
+35:10 mkf Formulare
+35:20 ct "Ist das schon das Windows, das neue?"
+35:22 cf "Ja"
+35:22 ct "Eben deswegen suche ich die ganze Zeit, ich find die Sachen nicht mehr, ich will eine höher"
+35:29 cf "Sonst gehen Sie einfach da zurück"
+35:32 ct "Ahaaaa"
+35:33 ce
+# Den habe ich nicht ganz in griff (Benutzerin geht in den Ordner Neuer Ordner)
+# Ach Gott das wollte ich auch nicht.
+# So was haben wir da noch gehabt? (TP denkt nach, und redet dabei ständig)
+35:47 renf "Neuer Ordner" Foto
+# 35:55 Wurscht, schauen wir einmal (TP geht auf Laufwerk I)
+36:15 mkf Kraftwerke
+# 36:29 "die sind so groß die Dings, dass man es überhaupt nicht mehr gescheit rüber geben kann (TP versucht eine Datei per drag and drop in den einen Ordner auf Laufwerk O zu kopieren)
+36:37 cf "sonst während dem Verschieben auf die Shift Taste drücken"
+36:38 ct "ja, dann sind sie weg, geh.."
+36:39 cf "genau"
+36:40 ce
+36:47 cf "Sie haben auf die darüber gedrückt"
+36:48 ct "ah habe ich, die falsche erwischt, Entschuldigung!"
+36:50 cf "nix passiert"
+36:51 ce
+# "ist, schon wieder nicht weg, wohl, na, wohl, a ist noch immer da, Wurscht?"  
+37:17 mkf Gesundheit
+37:24 ct "reicht es jetzt, na das reicht nicht mehr"
+37:28 ce
+38:00 m2f 1 Formulare 
+38:19 mkf Garten
+38:46 cf "spinnt er, tut er nichts"
+38:47 ce
+38:57 ct "Ich glaube das liegt nicht nur an mir"
+38:58 fb "facilitator versucht Datei zu kopieren, weil Testperson er erneut nicht schafft"
+39:00 fe
+39:04 m2f 1 Garten 
+# "probieren wir es noch einmal sonst überlegen wir uns andere Methode"
+39:30 mkf Rezepte
+39:40 m2f 1 Rezepte 
+40:20 m2f 1 fun 
+40:27 m2f 1 Fotos 
+40:39 m2f 1 fun 
+40:44 m2f 1 Kraftwerke 
+40:54 mkf Sport
+41:03 m2f 1 Sport 
+41:11 m2f 1 fun 
+41:27 m2f 1 Sport 
+41:46 mkf Fahrpläne
+41:53 m2f 1 Fahrpläne 
+42:04 m2f 1 Rezepte 
+42:18 mkf Zeitungsartikel
+42:27 m2f 1 fun 
+42:32 m2f 1 Rezepte 
+42:42 m2f 1 Zeitungsartikel 
+42:54 m2f 1 Fotos 
+43:01 m2f 1 Fotos 
+43:05 m2f 1 fun 
+43:11 m2f 1 Rezepte 
+43:13 m2f 1 Rezepte 
+43:21 m2f 1 Fotos 
+43:25 m2f 1 Fotos 
+43:29 m2f 1 Kraftwerke 
+43:32 m2f 1 Fotos 
+43:35 m2f 1 fun 
+43:41 m2f 1 Fotos 
+43:44 m2f 1 Fotos 
+43:49 m2f 1 fun 
+43:53 m2f 1 Sport 
+43:55 m2f 1 Sport 
+43:59 m2f 1 Sport 
+44:06 m2f 1 Garten 
+44:10 m2f 1 fun 
+# "das ist ein Schmarn"
+44:34 mkf div
+44:41 m2f 1 div 
+44:45 m2f 1 Fahrpläne 
+44:48 m2f 1 Fahrpläne 
+44:53 m2f 1 fun 
+# ah, jetzt habe ich eine Vorschau"
+45:02 m2f 1 Fotos 
+45:05 ib
+45:06 ie
+45:11 m2f 1 Kraftwerk 
+45:15 m2f 1 fun 
+45:19 m2f 1 Formulare 
+45:22 m2f 1 Fahrpläne 
+45:26 m2f 1 Fotos 
+45:32 m2f 1 Zeitungsartikel 
+45:42 m2f 1 Rezepte 
+45:48 m2f 1 Rezepte 
+45:55 m2f 1 Fotos 
+46:01 m2f 1 Bilder 
+46:07 m2f 1 Zeitungsartikel 
+46:15 m2f 1 Gesundheit 
+46:20 m2f 1 Zeitungsartikel 
+46:27 m2f 1 fun 
+46:39 m2f 1 Kraftwerke 
+46:41 m2f 1 Formulare 
+46:51 m2f 1 Fotos 
+46:54 m2f 1 Formulare 
+47:02 m2f 1 Gesundheit 
+47:06 m2f 1 Kraftwerke 
+47:23 ct "Normal würde ich das jetzt da mit Unterordnern versehen, weil das leichter ist"
+47:35 cf "so wie sie glauben, dass das logisch erscheint, ich kann das nicht für Sie entscheiden"
+47:41 ct "Ich weiß nicht was sie da eigentlich von mir erwarten, was für Tests Sie machen, ich will da jetzt nicht um sonst irgendwelche Arbeiten machen"
+47:59 cf "es geht nur darum, dass Sie eine Struktur machen, so dass Sie glauben das es sinnvoll logisch ist"
+48:00 ce
+48:11 ct "Das ist jetzt ein Problem, in dem Fall würde ich keine Struktur machen, wenn ich viele Bilder hätte würde ich eine Struktur machen, aber jetzt macht es keinen Sinn eine zu machen, weil einfach zu wenige sind und noch dazu, es das gleiche ist, net"
+48:23 ct "Das sind so Sachen, da kenne ich mich überhaupt nicht aus wo ich sie hintun soll"
+48:26 ce
+48:42 mkf Urlaub
+48:49 ff 1 Urlaub 
+48:50 ff 1 Urlaub 
+48:52 ff 1 Urlaub 
+48:54 ff 1 Urlaub 
+49:07 ff 1 Urlaub 
+49:24 ff 1 Gemüse 
+49:45 renf Gemüse Obst
+49:51 ff 1 Rezepte 
+50:05 ib
+# "Wieso ist das da drinnen, habe ich mich vertan?"
+50:08 ie
+50:12 ff 1 Zeitungsartikel 
+50:27 mkf "Neuer Ordner"
+50:30 ff 1 Obst 
+# "Des wäre mir schon wieder zu blöd um das zu tun"
+50:31 ff 1 Obst 
+51:08 ct "Soll ich jetzt tun, als wären da viel mehr"
+51:09 cf "Nein"
+51:10 ct "Weil wenn da mehrere währen würde ich Unterordner machen"
+51:14 cf "Nein, so wie es jetzt ist"
+51:15 ct "Na dann zahlt es ich nicht aus, dann finden wir es so auch"
+51:16 ce
+51:20 eotf

@@ -1,0 +1,156 @@
+08:41 sott 
+08:50 ct "So ausschneiden haben Sie gesagt, wie geht das?"
+08:53 cf "Das Tastenkürzel ist Strg + X"
+08:54 ce
+09:14 m2t 60
+09:15 ct "So, und jetzt kann ich eh nur eines nach dem anderen durchgehen, oder"
+09:19 cf "Im Hintergrund ist es"
+09:25 ct "Achse das brache ich jetzt"
+09:26 cf "Ja"
+09:27 ct "Achse so geht das genau, das habe ich schon wieder vergessen"
+09:30 ct "Und jetzt muss ich da irgendwie nachdem ich da alles gesehen habe"
+09:35 ce
+09:38 ct "Das ist völlig Wurscht, brauche ich mir da keine großartigen Gedanken…"
+09:42 cf "Ja, also irgendwie wie sinnvoll erscheint…"
+09:45 ct "sinnvoll, ja…."
+09:49 ct "Weil normalerweise, überlege ich mir das gscheiter, aber, jetzt ist das schwierig…"
+09:55 ce
+10:00 ct "Achso, da kann ich ja jetzt mehr vergeben, da muss ich jetzt umdenken."
+10:07 ct " Das ist ja gar nicht so einfach auf die Schnelle."
+10:08 ce
+10:13 ct "Kann ich da nachher welche dazutun?"
+10:15 cf "Grundsätzlich schon, aber für den Test tun wir das ignorieren, also wenn es einmal getagt ist, dann werden wir es beim Test so sein lassen."
+10:20 ct "Aha, da muss ich jetzt schnell zwei oder drei…"
+10:26 cf "Genau"
+10:27 ce
+10:56 ta 2
+11:00 ta 2
+11:01 ct "Ist das jetzt schon getagt worden?"
+11:02 cf "Genau, das ist schon getagt worden, jetzt müssen wir schauen, man klickt einfach die erste Datei an, dann ist sie aktiv"
+11:08 ct "Ahso, dann kann ich es einfach durchgehen."
+11:11 ce
+11:40 ta 2
+11:45 ct "Ist das jetzt schon, jo?"
+11:46 cf "hmm, auf Enter"
+11:50 ct "hab ich schon tan, weil das ist jetzt schon.."
+11:51 cf "Ja, natürlich"
+11:54 ct "alles was da unten ist, ist schon geh?"
+11:55 cf "Das haben Sie schon mal verwendet, da oben ist jetzt der nächste"
+11:58 ce
+12:03 ct "Ich habe jetzt ein Problem bei die Sachen, es sind jetzt sehr viele Fangsachen drinnen, die man jetzt aus dem Subject nicht erkennen kann. Entweder ich schau sie mir nocheinmal an, wenn ich es vermute, oder…"
+12:21 cf "Es steht Ihnen natürlich frei, die Sachen noch einmal anzuschauen"
+12:24 ct "Ich mach es nur nach dem Subject, es ist wahnsinnig schwierig jetzt zu tun"
+12:28 ct "Sonst hätte ich es umbenannt, oder sonst was"
+12:32 ct "oder gleich Abgelegt net"
+12:33 cf "Na da sind die noch einmal, Sie können sie ja anschauen wenn sie unsicher sind"
+12:39 ct "Jo, ich mein, wie wichtig ist den das"
+12:40 cf "Jo.."
+12:43 ct "Das ist meine Frage jetzt, ob sich's auszahlt"
+12:47 ct "Bei ein paar Sachen weiß ich's noch, dass es nix ernsthaftes war, aber bei ein paar waren es Fotos die ich nie in einen Ordner oder sonst irgendwo, jo…"
+13:00 ct "Bei Fotos geht es ja noch, aber bei manchen Sachen weiß ich wirklich net.."
+13:03 cf "OK"
+13:04 ct "Schwierig"
+13:05 cf "Ich würde Sie trotzdem bitten, dass sie einfach so wie es ihnen logisch erscheint tagen, und dort wo sie sich nicht sicher sind, dann schauen sie im Zweifelsfall nach in der Datei was die Datei war"
+13:14 ct "ok"
+13:16 cf "Da werden sicher einige falsch sein, das sage ich ihnen gleich"
+13:19 ce
+13:20 ta 2
+13:21 ct "Was habe ich jetzt gemacht, achso, da habe ich eine getagt, die ich nicht tagen wollt"
+13:26 cf "ok"
+13:27 ct "Das geht aber schon , gut ok…"
+13:33 ce
+13:35 ta 2
+# ja passt
+# für einen schnelldrucker wie mich ist das nix
+# mir ist wurscht
+14:00 ta 3
+14:17 ta 2
+14:27 ta 1
+14:37 ct "es war nämlich a, sehr viele Zeitungsartikel die man auch dazuschreiben, so wenn man es gleich macht, so was ist das irgendwie so, ja des macht mehr sinn als so…"
+14:50 ce
+15:16 ta 3
+15:34 ta 3
+15:40 ct "Kann ich einfach so neben bei"
+15:42 cf "Ja, sicher"
+15:43 ct "Ah, ok…"
+15:45 ce
+15:51 ib
+15:59 ie
+16:16 ta 1
+16:25 ta 2
+16:44 ta 3
+17:03 ta 2
+17:21 ta 2
+17:36 ta 3
+17:54 ta 2
+18:04 ta 2
+18:23 ta 3
+18:27 ta 1
+18:41 ta 1
+18:51 ta 2
+# "das ist sicher Blödsinn gewesen"
+19:00 ib
+19:03 ie
+19:10 ta 1
+19:25 ta 2
+19:33 ib
+19:36 ie
+19:55 ta 3
+20:12 ta 2
+20:17 ta 1
+20:26 ib
+20:35 ie
+21:10 ta 3
+21:31 ta 3
+21:48 ta 2
+21:50 ta 2
+22:00 ta 2
+22:12 ta 2
+22:18 ta 1
+22:24 ta 2
+22:40 ta 1
+
+22:41 ct "Schon passiert"
+22:42 ce
+
+22:59 ta 3
+23:01 ta 3
+23:08 ib
+23:13 ie
+23:28 ta 3
+23:52 ta 2
+23:55 ta 1
+24:04 ta 2
+24:13 ib
+24:18 ie
+24:31 ta 2
+24:48 ta 2
+25:19 ta 4
+25:23 ta 1
+25:37 ta 2
+25:50 ta 2
+26:06 ct "Jetzt weiß ich zum Beispiel net mehr was ich da vorhin geschrieben habe, ob ich da Triathlon oder, na Marathon habe ich da geschrieben"
+26:11 ce
+26:17 ta 2
+26:31 ta 1
+26:31 ct "Ach Gott, schon wieder den gleichen Blödsinn"
+26:33 ce
+26:48 ta 3
+26:57 ta 2
+27:01 ta 1 
+27:10 ib
+27:15 ie
+27:30 ta 3
+27:35 ct "hmm, was habe i da jetzt getan, welchen habe ich das jetzt zugeordnet, offensichtlich einen flachen, geh…"
+27:44 ce
+27:54 ta 3
+28:01 ta 1
+28:16 ta 3
+28:28 ta 2
+28:44 ta 2
+28:50 ib
+28:53 ie
+29:01 ta 1
+29:01 eot
+29:02 eott
+

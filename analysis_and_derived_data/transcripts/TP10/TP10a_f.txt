@@ -1,0 +1,144 @@
+02:25 sotf
+
+02:31 ct "Also einfach verschiedene Namen und was zusammen gehört?"
+
+02:34 ce
+
+02:35 cf "Wie es für Sie logisch erscheint."
+
+02:36 ce
+03:04 mkf "Kleine Zeitung"
+03:31 ct "Ich muss danach noch schauen ob ich es anders betitle."
+
+03:36 ce
+
+#03:58 Testperson verändert unabsichtlich die Ansicht (STRG + scrollen)
+03:59 ct "Entschuldigung, jetzt bin ich falsch angekommen."
+
+04:01 ce
+04:02 cf "Nichts passiert, vor dem runter scrollen die Taste wieder los lassen."
+
+#04:09 Facilitator ändert wieder die Ansicht
+04:14 ce
+04:16 ct "Jetzt geht's wieder weiter."
+04:18 ce
+05:03 ct "Muss ich da jetzt oben bleiben oder nur rechts klicken? Ok, passt schon. Ich bin nicht so ein Computer Genie."
+05:12 ce
+05:17 m2f 11 "Kleine Zeitung"
+05:23 ct "Was haben wir noch alles gehabt?"
+05:25 ce
+
+05:40 mkf Fotos
+07:04 m2f 15 Fotos
+07:12 ct "Ist das egal wenn da was falsches rein kommt?"
+07:13 ce
+
+07:14 cf "Sie können es ansonsten wieder ausschneiden und wo anders rein geben."
+
+07:16 ce
+
+07:16 ib
+
+07:19 ie
+07:43 mkf Formulare
+
+08:27 m2f 4 Formulare
+
+08:50 mkf Pläne
+
+09:32 m2f 8 Pläne
+09:49 mkf Witze
+
+10:32 m2f 8 Witze
+
+10:35 ct "Die muss ich mir jetzt aber durchsehen weil ich es mir nicht auswendig gelernt habe was da alles war."
+
+10:39 ce
+10:40 ib
+
+10:41 ie
+10:50 ct "Muss man das immer aufmachen oder kann man das gleich irgendwie"
+
+10:55 ce
+
+10:58 m2f 1 Fotos
+
+10:59 cf "Man kann hier auf den Pfeil klicken und dann sieht man die Ordner. Und wenn Sie es mit dieser Taste hinüber ziehen verschiebt man es einfach."
+
+11:12 ce
+11:16 ib
+11:18 ie
+
+11:19 ct "Mit welcher Taste?"
+
+11:20 ce
+
+11:21 cf "Diese gedrückt halten und jetzt einfach hinüber ziehen."
+
+11:26 ce
+11:28 m2f 1 Fotos
+
+11:31 ib
+
+11:33 ie
+11:36 ib
+
+11:37 ie
+
+11:39 ib
+
+11:41 ie
+11:47 m2f 1 Witze
+
+11:49 ib
+
+11:52 ie
+
+11:56 m2f 1 "Kleine Zeitung"
+
+12:00 ib
+
+12:01 ie
+12:05 m2f 1 Fotos
+
+12:07 ib
+
+12:09 ie
+
+12:12 m2f 1 "Kleine Zeitung"
+
+12:15 ib
+12:17 ie
+12:20 m2f 1 "Kleine Zeitung"
+
+12:22 ib
+12:23 ie
+
+12:27 m2f 1 Fotos
+
+12:28 ib
+
+12:29 ie
+12:33 m2f 1 Fotos
+
+12:36 ib
+
+12:37 ie
+
+12:42 m2f 1 Witze
+12:43 ib
+12:45 ie
+
+12:49 m2f 1 Fotos
+
+12:51 ib
+12:53 ie
+
+12:55 m2f 1 "Kleine Zeitung"
+12:57 ct "Dann machen wir noch einen Ordner."
+13:03 ce
+
+13:12 mkf Sport
+
+13:26 m2f 2 Sport
+13:34 eotf

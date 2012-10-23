@@ -1,0 +1,60 @@
+C:\testdata\TP16\Ordner\Comics\misc
+C:\testdata\TP16\Ordner\Comics\misc
+C:\testdata\TP16\Ordner\Comics\misc
+C:\testdata\TP16\Ordner\Comics\misc
+C:\testdata\TP16\Ordner\Comics\misc
+C:\testdata\TP16\Ordner\Comics\misc
+C:\testdata\TP16\Ordner\Comics\Nicht Lustig
+C:\testdata\TP16\Ordner\Comics\Nicht Lustig
+C:\testdata\TP16\Ordner\Comics\Nicht Lustig
+C:\testdata\TP16\Ordner\Comics\Nicht Lustig
+C:\testdata\TP16\Ordner\Comics\Nicht Lustig
+C:\testdata\TP16\Ordner\Comics\Nicht Lustig
+C:\testdata\TP16\Ordner\Energie\Berichte
+C:\testdata\TP16\Ordner\Energie\Berichte
+C:\testdata\TP16\Ordner\Energie\Bilder
+C:\testdata\TP16\Ordner\Energie\Bilder
+C:\testdata\TP16\Ordner\Energie\Bilder
+C:\testdata\TP16\Ordner\Energie\Bilder
+C:\testdata\TP16\Ordner\Energie\Bilder
+C:\testdata\TP16\Ordner\Formulare\Kultur
+C:\testdata\TP16\Ordner\Formulare\Life
+C:\testdata\TP16\Ordner\Formulare\Life
+C:\testdata\TP16\Ordner\Lifestyle\Allergien
+C:\testdata\TP16\Ordner\Lifestyle\Allergien
+C:\testdata\TP16\Ordner\Lifestyle\Garten\Berichte
+C:\testdata\TP16\Ordner\Lifestyle\Garten\Berichte
+C:\testdata\TP16\Ordner\Lifestyle\Garten\Bilder
+C:\testdata\TP16\Ordner\Lifestyle\Garten\Bilder
+C:\testdata\TP16\Ordner\Lifestyle\Garten\Bilder
+C:\testdata\TP16\Ordner\Lifestyle\Garten\Bilder
+C:\testdata\TP16\Ordner\Lifestyle\Küche\Berichte
+C:\testdata\TP16\Ordner\Lifestyle\Küche\Berichte
+C:\testdata\TP16\Ordner\Lifestyle\Küche\Bilder
+C:\testdata\TP16\Ordner\Lifestyle\Küche\Bilder
+C:\testdata\TP16\Ordner\Lifestyle\Küche\Bilder
+C:\testdata\TP16\Ordner\Lifestyle\Küche\Bilder
+C:\testdata\TP16\Ordner\Lifestyle\Küche\Bilder
+C:\testdata\TP16\Ordner\Lifestyle\Küche\Rezepte
+C:\testdata\TP16\Ordner\Lifestyle\misc
+C:\testdata\TP16\Ordner\Lifestyle\misc
+C:\testdata\TP16\Ordner\Lifestyle\misc
+C:\testdata\TP16\Ordner\Lifestyle\misc
+C:\testdata\TP16\Ordner\Lifestyle\Sport\Formel1
+C:\testdata\TP16\Ordner\Lifestyle\Sport\Formel1
+C:\testdata\TP16\Ordner\Lifestyle\Sport\Marathon
+C:\testdata\TP16\Ordner\Lifestyle\Sport\Marathon
+C:\testdata\TP16\Ordner\Lifestyle\Sport\Marathon
+C:\testdata\TP16\Ordner\Lifestyle\Sport\Triathlon
+C:\testdata\TP16\Ordner\Lifestyle\Urlaub\Berichte
+C:\testdata\TP16\Ordner\Lifestyle\Urlaub\Berichte
+C:\testdata\TP16\Ordner\Lifestyle\Urlaub\Bilder
+C:\testdata\TP16\Ordner\Lifestyle\Urlaub\Bilder
+C:\testdata\TP16\Ordner\Lifestyle\Urlaub\Graz
+C:\testdata\TP16\Ordner\Lifestyle\Urlaub\Graz
+C:\testdata\TP16\Ordner\Lifestyle\Urlaub\Graz
+C:\testdata\TP16\Ordner\Lifestyle\Urlaub\Linz
+C:\testdata\TP16\Ordner\Lifestyle\Urlaub\Linz
+C:\testdata\TP16\Ordner\Lifestyle\Urlaub\misc
+C:\testdata\TP16\Ordner\Lifestyle\Urlaub\Tokyo
+C:\testdata\TP16\Ordner\Lifestyle\Urlaub\Tokyo

@@ -1,0 +1,11 @@
+﻿02:01 tf 4 9.3 2 0
+02:29 tf 5 1.32 8 0 
+# Windows Probleme, Dateien gehen nicht zu, dadurch Zeit verfälscht!!!! 
+04:20 tf 6 19.8 4 0 
+05:00 tf 7 20.2 3 0
+05:37 tf 8 6.0 2 0
+05:56 tf 9 22.8 4 0
+06:30 tf 10 15.4 2 0
+06:56 tf 11 12.5 2 0
+07:21 tf 12 13.0 2 0
+07:44 tf 13 11.2 2 0

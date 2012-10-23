@@ -1,0 +1,492 @@
+#während dem ganzen Test musste die Testperson das tagstore Fenster manuell hervorheben
+07:10 sott
+
+07:25 ct "Die Maus ist nervig."
+
+07:28 ce
+
+07:34 m2t 1
+07:36 cf "Das ist im Hintergrund."
+
+07:38 ce
+07:54 ta 2
+
+07:55 eot
+
+08:12 m2t 1
+
+08:15 ct "Das geht aber immer im Hintergrund auf."
+
+08:16 ce
+
+08:17 cf "Das ist nur beim ersten oder zweiten Mal so. Einfach doppelt klicken."
+
+08:20 ce
+
+08:37 ta 1
+
+08:37 eot
+08:45 ib
+
+08:48 ie
+
+08:55 m2t 1
+
+09:11 ta 2
+09:12 eot
+
+09:21 m2t 1
+09:32 ta 2
+
+09:33 eot
+
+09:45 m2t 1
+10:01 ta 2
+
+10:02 eot
+
+10:14 m2t 1
+10:32 ta 2
+10:33 eot
+
+10:42 ib
+
+10:43 ie
+
+11:07 m2t 1
+
+11:25 ta 3
+
+11:26 eot
+
+11:30 ib
+
+11:33 ie
+
+11:39 m2t 1
+
+11:59 ta 4
+
+12:00 eot
+
+12:03 ib
+12:06 ie
+
+12:12 m2t 1
+12:30 ta 3
+
+12:31 eot
+
+12:41 m2t 1
+
+12:58 ta 3
+
+12:59 eot
+
+13:11 m2t 1
+
+13:31 ta 3
+
+13:32 eot
+
+13:38 ib
+
+13:46 ie
+13:57 m2t 1
+
+14:10 ta 2
+14:11 eot
+14:17 ib
+14:26 ie
+
+14:36 m2t 1
+
+15:00 ta 4
+
+15:01 eot
+15:09 ib
+
+15:12 ie
+
+15:17 m2t 1
+
+15:27 ta 2
+
+15:28 eot
+15:38 m2t 1
+15:55 ta 4
+
+15:56 eot
+
+16:10 m2t 1
+
+16:34 ta 4
+
+16:35 eot
+
+16:42 ib
+
+16:49 ie
+16:52 ib
+
+17:00 ie
+
+17:07 m2t 1
+
+17:23 ta 2
+
+17:24 eot
+
+17:33 m2t 1
+
+17:46 ta 4
+
+17:47 eot
+17:55 m2t 1
+
+18:15 ta 4
+
+18:16 eot
+18:28 m2t 1
+
+18:39 ta 2
+
+18:40 eot
+
+18:52 m2t 1
+
+19:02 ta 3
+
+19:03 eot
+
+19:08 ib
+19:11 ie
+
+19:19 m2t 1
+19:36 ta 3
+
+19:37 eot
+
+19:45 ib
+
+19:47 ie
+19:55 m2t 1
+
+20:15 ta 5
+
+20:16 eot
+20:31 m2t 1
+20:34 ib
+20:36 ie
+
+20:58 ta 2
+
+20:59 eot
+
+21:16 ib
+
+21:19 ie
+
+21:25 m2t 1
+
+21:46 ta 5
+
+21:47 eot
+
+#Testperson löscht Dateien
+
+22:19 ib
+
+22:21 ie
+
+22:40 cf "Das Kopieren hat nicht funktioniert."
+22:43 ce
+22:49 m2t 1
+
+23:06 ta 2
+
+23:07 eot
+23:15 m2t 1
+
+23:38 ta 4
+
+23:39 eot
+
+23:52 m2t 1
+
+24:09 ta 4
+
+24:10 eot
+
+24:22 m2t 1
+
+24:30 ct "Kann man Leerzeichen machen?"
+24:31ce
+24:36 ta 3
+24:37 eot
+24:42 ib
+
+24:44 ie
+
+25:00 m2t 1
+
+25:08 ta 2
+25:09 eot
+
+25:13 ib
+
+25:17 ie
+
+25:25 m2t 1
+
+25:52 ta 4
+
+25:53 eot
+26:00 ib
+26:02 ie
+
+26:17 m2t 1
+
+26:24 ta 3
+
+26:25 eot
+26:39 m2t 1
+27:00 ta 3
+
+27:01 eot
+
+27:09 m2t 1
+
+27:24 ta 3
+
+27:25 eot
+
+27:46 m2t 1
+
+28:01 ta 4
+
+28:02 eot
+28:14 m2t 1
+
+28:29 ta 3
+28:30 eot
+
+28:35 ib
+
+28:38 ie
+28:45 m2t 1
+28:58 ta 2
+28:59 eot
+
+29:08 m2t 1
+
+29:15 ta 3
+29:16 eot
+
+29:29 ib
+
+29:32 ie
+
+29:41 m2t 1
+
+30:00 ta 3
+
+30:01 eot
+
+30:21 m2t 1
+
+30:36 ta 4
+30:37 eot
+
+30:43 ib
+
+30:45 ie
+
+30:47 ib
+
+#Fotoanzeige lässt sich nicht schließen
+30:54 ie
+
+31:04 m2t 1
+
+31:21 ta 4
+31:22 eot
+31:31 m2t 1
+
+31:45 ta 3
+
+31:46 eot
+
+31:51 ib
+
+32:01 ie
+
+32:10 m2t 1
+32:33 ta 4
+
+32:34 eot
+
+32:41 ib
+
+32:43 ie
+
+32:52 m2t 1
+
+33:13 ta 3
+
+33:14 eot
+
+33:26 m2t 1
+33:38 ta 3
+
+33:39 eot
+
+33:47 ib
+33:49 ie
+
+33:58 m2t 1
+
+34:12 ta 5
+
+34:13 eot
+34:18 ib
+
+34:21 ie
+34:25 ib
+
+34:26 ie
+34:33 m2t 1
+
+#Testperson gibt zu viele tags ein; tagstore reagiert nicht mehr
+
+34:58 ta 6
+34:59 eot
+35:15 fb "Facilitator startet tagstore neu"
+
+36:05 fe
+
+
+36:06 ct "Das selbe muss ich nicht mehr machen?"
+
+36:08 ce
+
+36:09 cf "Nein, das sollte sich erledigt haben."
+36:11 ce
+
+36:12 ib
+36:19 ie
+
+36:24 m2t 1
+
+36:35 ta 2
+
+36:36 eot
+36:42 ib
+36:44 ie
+
+36:59 m2t 1
+
+37:17 ta 3
+
+37:18 eot
+
+37:23 ib
+
+37:26 ie
+
+37:40 m2t 1
+
+37:46 ta 2
+37:47 eot
+
+37:54 ib
+
+37:56 ie
+
+37:59 ib
+
+38:00 ie
+
+38:06 m2t 1
+
+38:14 ta 3
+
+38:15 eot
+38:29 m2t 1
+38:50 ta 5
+
+38:51 eot
+38:56 ib
+
+38:57 ie
+
+39:07 m2t 1
+
+39:21 ta 5
+39:22 eot
+39:28 ib
+
+39:29 ie
+39:38 m2t 1
+39:47 ta 3
+
+39:48 eot
+39:57 m2t 1
+40:09 ta 3
+
+40:10 eot
+
+40:14 ib
+40:16 ie
+
+40:26 m2t 1
+
+40:49 ct "Sehe ich hier die tags die ich bereits vergeben habe?"
+
+40:51 ce
+
+40:52 cf "Nein, in dieser Version nur die fünf."
+40:55 ce
+
+41:09 cf "Im Beschreibungen-Ordner wäre eine Auflistung der tags."
+
+41:13 ce
+
+#Testperson sieht im Beschreibungen-Ordner nach
+
+41:37 ta 3
+
+41:38 eot
+41:47 m2t 1
+
+41:58 ta 3
+
+41:59 eot
+42:05 ib
+
+42:10 ie
+42:20 m2t 1
+
+42:28 ta 3
+42:29 eot
+
+42:34 ib
+
+42:41 ie
+
+42:53 ib
+42:55 ie
+
+43:03 m2t 1
+
+43:12 ta 3
+43:13 eot
+43:19 ib
+43:21 ie
+43:26 m2t 1
+
+43:44 ta 3
+
+43:45 eot
+
+43:50 eott

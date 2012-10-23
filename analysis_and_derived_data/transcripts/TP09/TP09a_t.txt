@@ -1,0 +1,132 @@
+25:31 sott
+
+25:49 ct "Eigentlich könnte ich gleich alle markieren. Das ist eine gute Idee. Schauen wir."
+
+25:57 ce
+#25:59 Testperson kopiert alle Files in den überordner (nicht nach Beschreibung)
+
+26:02 cf "Die sind jetzt im Hauptordner gelandet. Bitte hinauf scrollen und in den Beschreibungen Ordner legen."
+26:25 ce
+
+26:27 ct  "Kann man irgendwie die Ansicht ändern?"
+26:29 ce
+26:29 ct "Die Ansicht kann man oben mit dem Symbol wechseln."
+
+26:36 ce
+
+#26:45 Testperson kopiert wieder alle Dateien und fügt sie dieses Mal in den Beschreibungen Ordner ein.
+26:52 m2t 60
+
+27:15 ta 3
+
+27:25 ta 3
+
+27:41 ta 3
+
+27:58 ta 2
+
+28:19 ta 3
+
+28:36 ta 2
+28:55 ta 1
+29:03 ta 2
+
+#29:03Testperson öffnet den tagstore-manager und schließt ihn wieder
+29:13 cf "Gibt's ein Problem?"
+29:14 ce
+29:14 cf "Ich wollt nur nachsehen. Hier sind nur die häufigsten tags. Ich dachte man könnte es erweitern, sodass man alle vergebenen tags sieht."
+
+29:24 ce
+
+29:24 cf "Im Moment ist das die einzige Konfiguration."
+
+29:28 ce
+
+29:32 ct "Er schlägt vor was man eingegeben hat."
+29:34 ce
+29:41 ta 2
+
+29:42 cf "Ansonsten kann man den Beschreibungen-Ordner öffnen und nachsehen was man vergeben hat."
+29:48 ce
+30:00 ta 3
+30:15 ta 3
+
+30:28 ta 3
+
+30:36 ta 3
+30:47 ta 3
+
+30:57 ta 2
+31:12 ta 4
+
+31:36 ta 3
+
+31:47 ta 2
+31:54 ta 3
+
+32:08 ta 2
+32:19 ta 3
+
+32:39 ta 2
+32:50 ta 3
+
+32:57 ta 3
+33:20 ta 3
+33:30 ta 2
+33:41 ta 3
+
+33:50 ta 3
+33:58 ta 2
+34:06 ta 3
+
+34:21 ta 4
+
+34:35 ta 4
+
+34:52 ta 3
+
+35:02 ta 2
+
+35:11 ta 3
+35:26 ta 3
+
+35:43 ta 3
+35:56 ta 4
+
+36:02 ta 4
+36:16 ta 3
+
+36:26 ta 3
+36:33 ta 3
+
+36:43 ta 4
+
+36:57 ta 4
+
+37:02 ta 2
+
+37:18 ta 3
+
+37:32 ta 3
+
+37:42 ta 3
+37:55 ta 3
+
+38:02 ta 3
+
+38:16 ta 2
+38:21 ta 2
+38:28 ta 2
+38:33 ta 2
+38:58 ta 4
+
+39:09 ta 3
+
+39:22 ta 3
+
+39:36 ta 4
+39:47 ta 3
+
+39:54 ta 2
+39:55 eot
+39:56 eott

@@ -1,0 +1,10 @@
+F:Wie war's?
+T: Jo.
+<<<<<<< .mine
+F: War es zu leicht zu schwer? Gibt es was positives was negatives anzumerken?
+T: Wenn es g'scheit getagt ist, dann findet man es auch wieder. Ab und zu habe ich es nicht, wie zum Beispiel den Antrag.
+=======
+F: War es zu leich zu schwer? Gibt es was positives was negatives anzumerken?
+T: Wenn es gscheit getagt ist, dann findet man es auch wieder. Ab und zu habe ich es nicht, wie zum Beispiel den Antrag.
+>>>>>>> .r233
+F: Ok.

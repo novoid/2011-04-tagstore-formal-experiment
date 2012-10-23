@@ -1,0 +1,2 @@
+Wenn man sich schnell eine Ordnerstruktur überlegen muss, ist es unangenehm. Normalerweise wächst es mit der Zeit.
+Mir ging der Windows Explorer auf die Nerven aber da kann man nicht umgehen.

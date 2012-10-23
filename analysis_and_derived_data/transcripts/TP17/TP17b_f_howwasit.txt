@@ -1,0 +1,4 @@
+Es war ganz in Ordnung. Dazu sagen muss man, dass es stark davon abhängt wie viele Daten man hat. Im realen Fall hat man eine ganz andere Struktur und das ist das Problem um wieder Daten zu finden.
+Hier habe ich es mir einfach gemacht da 60 Dateien leicht zu überschauen sind aber beim wirklichen Arbeiten hat man nicht so wenig Dateien. Und dann wird das Wiederfinden schwierig.
+Ehrlich gesagt habe ich keinen Unterschied festgestellt. Es gilt für beide Ordnerstrukturen, dass ich es mir überlegen muss wo ich was ablege. Auch beim tagstore muss ich überlegen welche tags ich vergebe um die Sachen wieder gut zu finden.
+Ähnliches Verhalten ist auch bei der üblichen Ordnerstruktur wobei ich glaube, dass tagstore einen Vorteil hat wenn man mehrere Daten verwalten muss. Schon klar, dass man bei einem solchen Test nicht mehr als 60 Dateien verwenden kann aber wenn mehr Daten zu Verwalten sind macht es bestimmt Sinn.

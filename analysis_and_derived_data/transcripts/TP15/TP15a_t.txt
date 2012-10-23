@@ -1,0 +1,492 @@
+07:27 sott
+
+07:45 ib
+07:49 ie
+
+08:01 m2t 1
+08:34 ta 4
+
+08:35 eot
+
+08:39 ct "Darf ich ein zweites Browser-Fenster aufmachen?"
+08:42 ce
+#08:43 Testperson öffnet zweites Fenster
+
+08:53 m2t 1
+09:12 ta 0
+09:13 eot
+
+#09:13 Testperson bestätigt ungewollt mit Enter
+
+#09:14 eot
+
+09:15 ct "Wenn ich etwas falsch gemacht habe, kann ich es raus löschen?"
+09:19 ce
+
+09:20 cf "Für den Test werden wir es nicht mehr ändern, es ist einfach so getaged."
+
+09:23 ce
+
+09:31 m2t 1
+
+10:05 ta 3
+
+10:06 eot
+
+10:08 ib
+
+10:19 ie
+
+10:22 m2t 1
+10:42 ta 3
+10:43 eot
+
+10:45 ib
+
+10:51 ie
+
+10:59 m2t 1
+
+11:31 ta 3
+
+11:32 eot
+
+11:34 ib
+
+11:36 ie
+
+11:40 m2t 1
+
+12:01 ct "Eine Frage hätte ich: Macht das tag Unterscheidungen zwischen Dateitypen? Ob es ein Bild oder pdf ist?"
+
+12:10 ce
+
+12:11 cf "Sie können es nur als tag vergeben. Prinzipiell werden alle tags gleich behandelt."
+
+12:18 ce
+
+12:28 ta 2
+
+12:29 eot
+12:32 ib
+12:36 ie
+
+12:40 m2t 1
+
+12:52 ct "Mehr vergebene tags kann ich nicht sehen?"
+12:56 ce
+
+13:31 ta 4
+
+13:32 eot
+
+13:33 ib
+
+13:34 ie
+
+13:38 m2t 1
+
+14:00 ta 3
+
+14:01 eot
+
+14:05 ib
+14:08 ie
+
+14:11 m2t 1
+
+14:41 ta 2
+
+14:42 eot
+
+14:43 ib
+
+14:52 ie
+
+14:55 m2t 1
+
+15:20 ta 4
+
+15:21 eot
+
+15:23 ib
+
+15:29 ie
+15:35 m2t 1
+16:10 ta 5
+
+16:11 eot
+16:14 ib
+
+16:31 ie
+
+16:34 ib
+16:37 ie
+
+16:42 m2t 1
+
+17:08 ta 4
+
+17:09 eot
+
+17:12 ib
+
+#Fotoanzeige lässt sich nicht schließen
+
+17:22 ie
+
+17:27 m2t 1
+
+18:04 ta 4
+
+18:05 eot
+
+18:12 ib
+
+18:13 ie
+
+18:17 m2t 1
+
+18:45 ta 4
+18:46 eot
+
+18:47 ib
+
+19:16 ie
+
+19:19 m2t 1
+
+19:57 ta 5
+
+19:59 eot
+
+20:01 ib
+
+20:12 ie
+
+20:19 m2t 1
+
+21:20 ta 1
+21:21 eot
+
+21:23 ib
+21:40 ie
+
+21:44 m2t 1
+
+22:00 ta 3
+
+22:01 eot
+
+22:03 ib
+
+22:04 ie
+22:08 m2t 1
+
+22:33 ta 4
+
+22:34 eot
+
+22:35 ib
+22:40 ie
+
+22:44 m2t 1
+
+23:27 ta 5
+
+23:28 eot
+23:30 ib
+23:35 ie
+
+23:41 m2t 1
+
+24:12 ta 3
+
+24:13 eot
+
+24:14 ib
+
+24:18 ie
+24:23 m2t 1
+
+24:27 ta 1
+
+24:28 eot
+24:30 ct "Jetzt bin ich zu schell auf die Enter-Taste gekommen."
+
+24:36 ce
+24:37 ib
+
+24:43 ie
+24:48 m2t 1
+
+25:13 ta 4
+25:14 eot
+
+25:16 ib
+25:19 ie
+
+25:25 m2t 1
+25:40 ta 4
+25:41 eot
+
+25:42 ib
+
+25:43 ie
+
+#Testperson ändert die Ansicht
+25:54 ct "Kann ich die Ansicht ändern?"
+
+25:56 ce
+
+25:59 m2t 1
+
+26:19 ta 2
+
+26:20 eot
+26:25 ib
+
+26:33 ie
+
+26:37 m2t 1
+
+27:10 ta 6
+
+#Testperson gibt zu viele tags ein(6); tagstore hängt sich auf;
+
+27:46 fb "FB startet den tagstore neu"
+
+28:48 fe
+28:49 eot
+28:53 ib
+
+29:00 ie
+
+29:06 m2t 1
+
+#durch den vorigen Fehler öffnet sich das tagstore Fenster nicht
+
+29:10 fb "Facilitator startet den tagstore neu"
+
+29:19 fe
+
+29:41 ct "Sind Umlaute ein Problem?"
+29:45 ce
+
+29:52 ta 3
+
+29:53 eot
+
+29:57 ib
+
+#Adobe Reader schloss nicht sofort
+
+30:17 ie
+
+30:34 m2t 1
+
+30:58 ta 4
+30:59 eot
+
+31:07 m2t 1
+31:40 ta 5
+31:41 eot
+31:53 m2t 1
+32:12 ta 3
+
+32:13 eot
+32:19 ib
+
+32:21 ie
+
+32:23 m2t 1
+
+32:31 ta 2
+
+32:32 eot
+
+32:34 ib
+32:38 ie
+32:45 m2t 1
+
+32:59 ta 4
+
+33:00 eot
+
+33:01 ib
+
+33:07 ie
+33:10 m2t 1
+
+33:24 ta 4
+33:25 eot
+
+33:29 m2t 1
+
+34:16 ta 4
+
+34:17 eot
+
+34:19 ib
+34:22 ie
+
+34:26 m2t 1
+
+35:02 ta 4
+
+35:03 eot
+
+35:09 m2t 1
+
+35:42 ta 3
+
+35:43 eot
+35:49 m2t 1
+
+36:06 ta 3
+
+36:07 eot
+
+36:11 m2t 1
+36:23 ta 3
+
+36:24 eot
+
+36:27 ib
+
+36:29 ie
+36:31 m2t 1
+36:41 ta 2
+36:42 eot
+36:43 ib
+36:46 ie
+36:51 m2t 1
+37:13 ta 5
+37:14 eot
+37:16 ib
+37:20 ie
+37:23 m2t 1
+38:10 ta 4
+
+38:11 eot
+38:21 m2t 1
+
+38:41 ta 4
+
+38:42 eot
+
+38:52 m2t 1
+
+39:13 ta 5
+39:14 eot
+39:17 ib
+39:25 ie
+39:27 m2t 1
+
+39:51 ta 3
+
+39:52 eot
+39:58 m2t 1
+40:10 ta 3
+40:11 eot
+
+40:16 m2t 1
+40:24 ta 2
+40:25 eot
+40:28 m2t 1
+40:41 ta 3
+
+40:42 eot
+40:45 ib
+40:48 ie
+40:50 m2t 1
+
+41:08 ta 5
+
+41:09 eot
+41:12 ib
+
+41:16 ie
+41:18 m2t 1
+
+41:34 ta 4
+
+41:35 eot
+
+41:36 ib
+41:40 ie
+41:42 m2t 1
+
+41:54 ta 4
+41:55 eot
+42:00 ib
+
+42:01 ie
+42:03 m2t 1
+
+42:12 ta 2
+42:13 eot
+42:17 m2t 1
+
+42:31 ta 4
+
+42:32 eot
+42:37 m2t 1
+43:06 ta 5
+43:07 eot
+
+43:15 ib
+
+43:19 ie
+
+43:22 m2t 1
+43:38 ta 4
+43:39 eot
+
+43:41 ib
+43:42 ie
+
+43:46 m2t 1
+
+43:51 ta 2
+
+43:52 eot
+
+43:57 m2t 1
+
+44:06 ta 3
+
+44:07 eot
+
+44:09 ib
+44:10 ie
+44:13 m2t 1
+44:41 ta 3
+44:42 eot
+
+44:51 m2t 1
+
+45:05 ta 2
+
+45:06 eot
+45:14 ib
+
+45:36 ie
+
+45:38 m2t 1
+
+46:03 ta 5
+46:04 eot
+
+46:08 m2t 1
+
+46:16 ta 2
+46:17 eot
+
+46:18 ib
+46:21 ie
+46:25 m2t 1
+46:37 ta 3
+
+46:38 eot
+46:41 eott

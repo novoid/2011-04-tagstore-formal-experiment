@@ -1,0 +1,7 @@
+F: "Sehr Gut! Wie wars?"
+T: "Ja, bekannt!"
+F: "Bekannt! Irgendetwas besonderes was aufgefallen ist, positiver oder negativer weise?"
+T: "So wie das vorhing, schwierig wirds dann beim Ordner auffinden. Naja, wie gesagt bei manchen Sachen ist die Frage ob mir das was halfen wird. Weil so viel Ordner sind es glaube ich nicht. 
+F: Na gut! Dann...
+
+

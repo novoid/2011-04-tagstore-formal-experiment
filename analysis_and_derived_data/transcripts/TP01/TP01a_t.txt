@@ -1,0 +1,106 @@
+30:42 sott
+30:43 ct "Das ist meine Ablage..."
+30:57 ce
+31:05 ct "Muss ich das nach der Reihe machen, oder ist das egal? F: Nein man kann auch mehrere auf einmal..."
+31:15 ce
+31:17 m2t 2 
+31:45 ta 2
+31:45 ct "Wars das?"
+31:52 ce
+31:56 ta 2
+31:57 eot
+31:58 ct "Dann kann ich das jetzt sequenziell abarbeiten."
+32:08 ce
+32:09 m2t 58
+32:20 cf "Am besten nochmal auf die erste Datei klicken, damit die ausgewählt ist."
+32:53 ce
+33:17 ta 2
+33:32 ta 2
+33:48 ta 2
+33:54 ct "Kann ich das schließen? F: Bitte nicht. T: Aber ich kann es mir trotzdem anschaun? F: Ja"
+34:04 ce
+34:05 ib
+34:06 ie
+34:15 ta 2
+34:23 ct "Also abbrechen darf ich da jetzt nicht?"
+34:34 ce
+34:43 ta 3
+34:54 ta 2
+34:59 ta 1
+35:18 ta 1
+35:25 ib
+35:44 ie
+35:59 ta 1
+36:06 ib
+36:12 ie
+36:19 ta 2
+36:30 ta 2
+36:47 ta 3
+36:53 ib
+36:55 ie
+36:59 ta 2
+37:18 ta 2
+37:22 ta 2
+37:29 ta 2
+37:46 ta 2
+37:47 ta 2
+37:49 ta 1
+37:57 ta 2
+38:04 ib
+38:05 ie
+38:10 ta 2
+38:14 ta 1
+38:22 ta 2
+38:30 ta 2
+38:48 ta 3
+38:51 ta 1
+39:11 ta 3
+39:22 ta 2
+39:27 ct "Jetzt wird es interessant. Jetzt bräuchte ich einen Tag."
+40:12 ce
+40:14 ta 2
+40:16 ta 2
+40:33 ct "Bilder kategorisiere ich jetzt absichtlich nicht."
+40:35 ce
+40:36 ta 2
+40:43 ta 2
+40:53 ta 1
+41:03 ta 3
+41:11 ta 2
+41:18 ib
+41:24 ie
+41:33 ta 3
+41:35 ta 3
+41:48 ta 2
+41:52 ib
+41:55 ie
+42:06 ta 2
+42:07 ct "Vielleicht hätte ich Essen auch noch als Tag einführen soll ganz am Anfang."
+42:10 ce
+42:12 ta 1
+42:28 ta 2
+42:36 ta 2
+42:47 ta 1
+42:54 ta 1
+42:58 ta 1
+43:02 ta 2
+43:13 ta 3
+43:28 ta 3
+43:32 ib
+43:35 ie
+43:38 ta 1
+43:45 ta 2
+43:56 ta 2
+44:00 ib
+44:03 ie
+44:06 ta 1
+44:15 ta 2
+44:18 ta 1
+44:25 ta 2
+44:36 ta 2
+44:44 ib
+44:48 ie
+44:54 ta 2
+45:00 ta 1
+45:00 eot
+45:00 eott

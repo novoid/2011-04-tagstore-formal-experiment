@@ -1,0 +1,136 @@
+﻿06:56 sott 
+#TP stellt auf große Symbole um 
+07:27 m2t 3 
+07:28 ta 2
+07:43 ta 2
+07:46 ta 1
+07:46 eot
+
+08:09 m2t 8
+08:23 ct "Kann ich da mehrere Auswählen für die gleiche Tag vergebe?"
+08:26 cf "Gleichzeitig geht es nicht!"
+08:28 ct "Aber einfach STRG+C STRG+V"
+08:29 cf "Oder einfach tagan ..."
+08:30 ct "Ah und dann Enter drucken"
+08:31 ce
+08:31 ta 3
+08:31 ta 3
+08:32 ta 3
+08:32 ta 3
+08:33 ta 3
+08:33 ta 3
+08:33 ta 3
+08:33 ta 3
+08:34 eot
+
+08:57 cf "Sonst einfach doppelklicken, wenn es mit einem Klick nicht geht"
+09:02 ct "Ah OK!"
+09:02 ce
+09:02 m2t 4
+09:11 ta 1
+09:16 ta 1
+09:21 ct "Wenn ich da unten rauf click, übernimmt er das automatisch als Tag."
+09:25 cf "Ja"
+9:26 ct "Oder, passt weils dann nicht Anzeigt, deswegen.."
+9:29 cf "ja,nochmal draufklicken, aha ok interessant..."
+09:34 ct "ah, des muss leer sein.."
+09:35 cf "na, bis jetzt hats ohne das es leer war auch funktioniert aber vielleicht war es eine einmalige Geschichte"
+09:43 ct "ok jetzt geht es..."
+09:44 ce
+09:44 ta 2
+09:50 ta 1
+09:51 eot
+
+10:15 m2t 8
+10:20 ct "Aber alle werden mir nicht angezeigt da unten"
+10:21 cf "Na, immer nur fünf"
+10:23 ct "Die fünf häufigsten? Oder willkürlich?"
+10:28 cf "Zuerst, die häufigsten und dann wirds angepasst"
+10:32 ct "Wenn ich jetzt mich nicht mehr an alle meine tags jetzt erinnern kann, gibts eine Möglichkeit zum nachschauen?"
+10:36 cf "Ja mann könnte z.B in den Beschreibungen Ordner schauen"
+10:39 ct "Aber da drinnen in dem Fenster drin"
+10:40 cf "Na in dem Fenster nicht"
+10:42 ct "Nicht, ok"
+10:43 ce
+#TP öffnet sich ein neues Explorer Fenster um die vergebenen Tags anzeigen zu lassen...
+10:46 cf "sonst mache ich den auf"
+10:46 fb "Öffnet dem User einen weiteren Explorer"
+10:49 fe
+10:50 ct "ok so geht das auch"
+11:00 ct "Die merkt man  sich ja nicht"
+11:01 ce
+11:04 ta 1
+11:13 ta 1
+11:20 ta 1
+11:35 ta 3
+11:36 ta 3
+11:45 ta 2
+11:46 ct "Wenn ich einen Tag falsch vergeben habe?"
+11:49 cf "Ahmmm, dann werden wir das für den Test einfach ignorieren, wenn eine Datei schon mal getagt ist"
+11:52 ct "OK"
+11:52 ce 
+11:55 ta 2
+11:56 ta 2 
+11:56 eot 
+
+12:27 m2t 9
+12:41 ta 2
+12:48 ta 2
+12:56 ta 2
+13:10 ta 3 
+13:20 ta 2
+13:29 ta 2
+13:36 ta 2
+13:37 ta 2
+13:43 ta 2
+13:44 eot
+
+14:03 m2t 9
+14:11 ta 2
+14:18 ta 2
+14:31 ta 2
+14:37 ta 3
+14:49 ta 3
+15:07 ta 1
+15:15 ta 2
+15:25 ta 3
+15:31 ta 2
+15:31 eot
+
+15:48 m2t 9
+15:55 ta 2
+16:14  ta 1
+16:31 ta 2
+16:39 ta 2
+16:39 ta 2
+16:46 ta 2
+16:58 ta 3
+17:06 ta 1
+17:11 ta 2
+17:12 eot
+
+17:22 ct "Die Datei habe ich gerade rüber kopiert"
+17:24 cf "Wahrscheinlich kopiert und nicht ausgeschnitten"
+17:25 ct "Ahhh"
+17:28 ct "Darf ich die einfach so löschen"
+17:30 ce
+
+17:50 m2t 10
+18:05 ta 2
+18:14 ta 2
+18:23 ta 2
+18:33 ta 2
+18:42 ta 3
+18:46 ta 1
+18:55 ta 3
+19:08 ta 2
+19:14 ta 2
+19:20 ta 1
+19:21 eot
+
+19:23 eott
+
+
+
+
+

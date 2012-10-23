@@ -1,0 +1,12 @@
+#Zeit länger als 1 Minute
+08:24 tf 14 1:7.0 10 0 
+# Testperson hat falsch getaggt (Fehler im Tagnamen)
+09:44 tf 15 8.0 2 0 
+10:02 tf 16 12.4 2 0 
+10:25 tf 17 11.4 3 0 
+10:45 tf 18 2.8 2 0 
+10:56 tf 19 4.4 2 0 
+11:09 tf 20 5.7 2 0 
+11:23 tf 21 6.4 3 0 
+11:37 tf 22 7.3 2 0 
+11:53 tf 23 3.9 2 0  

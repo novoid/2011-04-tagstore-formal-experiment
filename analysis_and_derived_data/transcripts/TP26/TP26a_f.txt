@@ -1,0 +1,43 @@
+21:22 sotf
+22:09 mkf Essen
+22:12 m2o 6 
+
+22:21 ct "Ich darf eh in einem Ordner im Unterordner Ablegen"
+22:23 cf "Ja natürlich!"
+22:24 ct "Ok"
+22:24 ce
+
+23:05 mkf Wissen
+23:14 mkf Atomkraft
+23:19 m2f 1 Atomkraft #überprüfuen
+
+24:01 mkf "Neuer Ordner"
+24:12 m2f 1 "Neuer Ordner"
+24:21 mkf "Anträge"
+24:24 ff 3 "Anträge"
+24:31 renf "Neuer Ordner" "Anträge"
+24:34 mvf 1 Wissen
+25:22 mkf Cartoon
+25:26 m2f 11 Cartoon
+26:03 mkf Urlaub
+26:06 m2f 7 Urlaub
+26:38 mkf Frühling
+26:41 m2f 8 Frühling
+27:05 mkf Allergie
+27:07 m2f 2 Allergie
+27:11 mvf 1 Wissen
+27:41 mkf Gesundheit
+27:44 m2f 4 Gesundheit
+28:01 mkf Fotos
+28:05 m2f 2 Fotos
+28:25 mkf GVB
+28:27 m2f 4 GVB
+28:31 mvf 1 Wissen
+28:38 m2f 1 Cartoon
+28:46 m2f 1 Essen
+28:55 m2f 1 Frühling
+29:16 m2f 2 Gesundheit
+29:17 mvf 1 Wissen
+29:32 mkf Sport
+29:34 m2f 2 Sport
+29:37 eotf 

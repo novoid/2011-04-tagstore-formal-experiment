@@ -1,0 +1,60 @@
+Fukushima,Japan,Atomkraft
+Slowenien,Krsko,Atomkraft
+Druckwasser,Atomkraft
+Österreich,Atomkraft
+Antrag,Familienbeiilfe,Österreich
+Comic,Vampir
+Allergie
+Comic,Ebay
+Wiese,Blumen
+Gebä\x63k,Essen,Apfelstrudel
+Frühling,Blumen
+Graz,Öffentlicher Verkehr,Linie 3
+Graz,Netzplan,Öffentlicher Verkehr
+Netzplan,Öffentlicher Verkehr,Linz
+Japan,Öffentlicher Verkehr,Tokyo
+Frühling,Allergie
+Frühling
+Ars Electronica,Linz
+Graz,Murinsel,Österreich
+Urlaub,Reisen,Sommer
+Gesundheit,Ernährung
+Gesundheit,Radfahren
+Gemüse,Ernährung
+Gebä\x63k,Ernährung
+Obst,Ernährung
+Formel 1
+Antrag,Graz,Hund,Österreich
+Ikea,Comic
+Japan,Kirschblüte,Kirsche
+Comic,Ernährung
+Gesundheit,Kräuter,Ernährung
+Antrag,Kulturförderung
+Männer,Comic
+Frühling,Garten
+Photo,Marathon
+2011,Marathon,Team
+2010,Marathon,Team
+Siedewasser,Atomkraft
+Urlaub,Ski
+Ski,Hütte,2011
+Jause,Gesundheit,Ernährung
+schwarzwälder kirschtorte,Gebä\x63k,Kirsche,torte
+vettel,Formel 1,nervensäge
+triathlon,2010,Marathon
+Comic
+Japan,fisch,Ernährung
+Wasserkraft,Kraftwerk,Schema
+Comic
+Urlaub,Ski,Österreich
+Comic,Sport
+Comic
+zwiebelstrudel,Ernährung,zwiebel
+birne,Ernährung,salat
+nietzsche,Comic
+Comic,hexe,hänsel und gretel
+wasserkr
+Schweizermesser,Comic
+Japan,Tokyo,Photo
+Photo,2009,marigit bay,Reisen
+Sommer,sommerzeit

@@ -1,0 +1,7 @@
+Nach einger Gewöhnungszeit eigentlich ganz angenehm.
+Ein paar kleine Sachen am Interface wären noch zu verbessern.
+z.B. wenn ein paar (alte) tags drinnen stehen und ich einen anderen anklicke, wird er hinzugefügt und
+überschreibt nicht die anderen. Ist etwas kontraintuitiv zu anderen Programmen.
+Bei den vorgeschlagenen tags wäre es hiflreich, wenn man wo ein Rollup hätte wo man alle tags sieht
+und nicht nur die häufigst verwendeten. So dass man nicht in der Ordnerstruktur nachschauen muss.
+Sonst ist es eigentlich recht angenehm.

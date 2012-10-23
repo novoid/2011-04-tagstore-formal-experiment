@@ -1,0 +1,5 @@
+Bei dem einen war es schwer, weil ich semantisch ordne und bei der Datei hats mir rausgehaut.
+Ansonsten habe ich mir leicht getan, weil ich mich noch ein wenig erinnert habe, wie ich die
+Strukturen angelegt habe.
+Da es jetzt noch nicht so lange her ist, ist es wahrsch. schneller gegangen als wenn ich es 
+anders strukturiert hätte, aber in einem halben Jahr würde die Sache wohl anders aussehen.

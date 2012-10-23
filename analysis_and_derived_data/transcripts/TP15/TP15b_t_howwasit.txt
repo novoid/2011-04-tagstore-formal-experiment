@@ -1,0 +1,4 @@
+Es ist recht einfach gegangen aber ich sehe, dass ich eine gewissen inkonsistenz  bei der Namensgebung gehabt, bei Bild und Bilder.
+Ein file hatte ich zu früh geschlossen, falls ich mich damit genauer befasst hätte, hätte ich es editiert. Somit habe ich das Vettel Bild nicht gefunden.
+
+Es ging sehr schnell und war relativ einfach.

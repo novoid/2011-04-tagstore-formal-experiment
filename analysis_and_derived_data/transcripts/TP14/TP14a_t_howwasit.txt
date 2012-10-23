@@ -1,0 +1,6 @@
+Ja, es funktioniert. Hierarchische tags wären fein und die Möglichkeit Dinge mit einem gemeinsamen tag auszuwählen, tags umbenennen. Während dem tagen ist es mir aufgefallen, dass ich die selbe Kategorie hatte aber nicht den gleichen tag, beispielsweise das Wasserkraftwerk. Das hatte ich vorher mit AKW getaged.
+Da wäre es fein alle die ich vorher als AKW getaged habe auch als Kraftwerk zu tagen. 
+Ansonsten funktioniert es, es ist Ok.
+
+Wenn ich mehrere tags zur Auswahl habe, muss ich den irgendwie bestätigen. Intuitiv wäre es wenn ich per Beistrich weiter machen könnte. Also wenn ich einen Vorschlag bekomme durch die ersten drei Buchstaben und dann per Beistrich vervollständigt wird und ich weiter schreiben kann.
+Der Beistrich ist für mich das normale Trennzeichen. Wenn ich tippe könnte ich immer auf der Tastatur bleiben.

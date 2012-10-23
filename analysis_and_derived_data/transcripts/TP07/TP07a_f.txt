@@ -1,0 +1,51 @@
+02:02 sotf
+02:10 ct "Ist es wichtig wo ich sie verteile oder kann ich das einfach..."
+02:22 ce
+02:40 mkf Atomkraftwerk
+03:11 m2f 3 Atomkraftwerk
+03:24 mkf Rezepte
+04:04 m2f 3 Rezepte
+04:14 renf Rezepte Essen
+05:03 m2f 1 Essen
+05:51 m2f 5 Essen
+06:06 mkf Allergie
+06:39 m2f 2 Allergie
+06:58 m2f 1 Essen
+07:42 mkf Strassenbahn
+08:07 m2f 2 Strassenbahn
+08:19 m2f 1 Strassenbahn
+08:30 mkf Sport
+09:22 m2f 5 Sport
+09:31 mkf Urlaub
+10:11 m2f 4 Urlaub
+10:27 m2f 1 Sport
+10:45 mkf Wetter
+11:03 m2f 1 Strassenbahn
+11:18 m2f 1 Sport
+11:33 renf Atomkraftwerk Kraftwerk
+11:56 m2f 1 Kraftwerk
+12:13 mkf Gesundheit
+12:32 m2f 2 Gesundheit
+12:55 m2f 3 Urlaub
+13:11 m2o 1
+13:18 ff 1 Kraftwerk
+13:44 m2f 1 Wetter
+14:13 mkf Natur
+14:18 ff 1 Natur
+14:31 m2f 1 Natur
+14:46 mkf Antrag
+15:02 m2f 2 Antrag
+15:13 m2f 1 Natur
+15:27 m2f 1 Kraftwerk
+15:42 m2f 1 Wetter
+15:59 m2f 1 Natur
+16:12 m2f 1 Strassenbahn
+16:36 m2f 1 Gesundheit
+16:52 mkf Comics
+17:18 m2f 9 Comics
+17:33 m2f 1 Gesundheit
+17:46 m2f 1 Urlaub
+18:00 m2f 1 Comics
+18:21 m2f 1 Antrag
+18:22 eotf
+

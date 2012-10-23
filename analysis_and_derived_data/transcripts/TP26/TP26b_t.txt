@@ -1,0 +1,13 @@
+01:26 tf 4 9.5 3 0
+01:45 tf 5 16.4 3 0
+# Kommt Hexe im Dateinamen vor, murmeldt die Testperson!
+# Modereator antwortet, dass es nicht der Fall sein muss!
+#Zeit länger als 1 Minute
+02:16 tf 6 1:10.9 21 3
+03:37 tf 7 7.3 2 0  
+03:51 tf 8 3.8 2 0
+04:02 tf 9 27.6 7 0
+04:36 tf 10 8.5 2 0
+04:58 tf 11 4.7 2 0 
+05:09 tf 12 11.2 2 0 
+05:27 tf 13 12.3 2 0 

@@ -1,0 +1,11 @@
+Wenn man beim taggen ein bisschen sorgfältiger wäre, wäre es sehr effektiv.
+Ich habe Sachen teilweise getaggt so dass sie nicht ganz gepaßt haben.
+Beim Taggen selber muss man glaub ich schon darauf schauen, dass es einigermaßen konsistent ist.
+Aber sonst angenehm.
+Nach was man sucht ist schon intuitiv. Nur manchmal landet man in einer Sackgasse, wo man denkt, da
+hätte es eigentlich sein müssen. Und man kommt drauf so hätte ich damals taggen müssen, damit ich
+die Datei dort finde.
+Wenn man das Taggen sorgfältig macht und sich Zeit nimmt und eher großzügig tags vergibt dann ist
+es beim Suchen glaube ich einfacher.
+Jetzt bin ich ab und zu in eine Sackgasse geraten, v.a. weil es da stärker verzweigt ist und ich 
+normalerweise eher in flachere Strukturen einsortiere.

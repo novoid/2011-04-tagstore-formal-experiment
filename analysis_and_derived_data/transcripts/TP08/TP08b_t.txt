@@ -1,0 +1,12 @@
+09:35 tf 14 09.69 2 0
+10:10 tf 15 24.39 3 0
+10:28 tf 16 06.93 2 0
+10:55 tf 17 05.48 2 0
+11:09 tf 18 05.56 2 0
+#bei 17min "Task 19 wurde nicht erfolgreich beendet, Datei nicht gefunden"
+#Zeit über 1 Minute
+17:00 tc 19 05:41.16
+17:12 tf 20 04.31 2 0
+17:31 tf 21 11.64 3 0
+18:26 tf 22 44.51 3 0
+18:44 tf 23 07.13 2 0

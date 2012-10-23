@@ -1,0 +1,199 @@
+#Testperson erzählt schon am Beginn der Aufgabe, das er die Groß/klein Schreibung ungewöhnlich findet bei Windows, und bei den Tags macht es plötzlich einen Unterschied.
+#Es ist auch gut, dass man bei der Vorauswahl schon vorab die Tags sieht.
+
+08:06 sott
+08:10 ct "Ahhh, mir fehlt mein STRG+S wo ich, wo ich noch Dateinamen schnipseln und markieren kann"
+08:20 ce
+08:50 ct "ok so viel zum Ausklappen"
+08:55 cf "Die Ansicht funktioniert leider net"
+08:57 ct "ja das wäre natürlich praktisch gewesen, ja dann..."
+09:03 ce
+09:10 ct "Ah das wird ein Windows 7 feature oder"
+09:13 cf "Da ist jetzt anscheinend  beim kopieren etwas daneben gegangen"
+09:19 ce
+09:20 fb Kommentar
+#Tagstore wird geschlossen, irgenetwas beim kopieren funktioniert nicht...
+#tagstore wird neu gestartet
+09:50 fe
+09:51 m2t 5
+09:51 ct "Ok ja, wir haben schon was gefunden"
+09:54 ce
+09:54 fb Kommentar
+10:04 fe
+10:04 ct "Dateien rausschieben bevor er sie getagt hat, das mag er nicht so wirklich"
+10:09 ce
+# Testperson hat nicht verstanden wie Tags vergeben werden, tut sich am Anfang sehr schwer
+10:13 ct "Ja, jetzt wäre es meine erste Intuition, so mal alle mit einen Tag markieren und dann einzeln markieren, und weitere Tags hinzufügen. Ja."
+10:25 ce
+# 10:49 Testperson klickt die einzelnen Dateien beim taggan an, in der Hoffnung, dass sie getagt werden, anstelle Enter oder Tag! zu drucken...
+10:53 ct "Aha, die nimmt er jetzt nicht, OK"
+10:55 ce
+11:14 cf "Moderator erklärt der Testperson, dass er ihm, wie er die Datei taggen kann…"
+11:19 ce
+11:22 ct "Meine Assoziation wäre dazu so, jenachdem dass die Dateien getaggt werden wenn ich sie anklicke, damit ich auch mehrere Dateien mit gleichen Tags taggen kann. Ich sehe schon vielleicht, dass man daneben sieht welcher tag ist?"
+11:30 ce
+11:36 ta 4
+11:50 ta 4
+12:10 ta 4
+12:29 ta 5 
+12:46 ta 3
+12:46 eot
+12:52 ct "Eigentlich hätte ich gerne das retaggen, das wäre ganz intuitiv das Umbenennen"
+12:57 cf "Aber für den Test werden wir das retaggen nicht berücksichtigen"
+13:02 ce
+13:59 m2t 5
+14:28 ta 3
+14:29 ta 3
+14:30 ta 3
+14:45 ta 2
+14:59 ta 3
+14:59 eot
+
+
+15:01 ct "Ah, jetzt würde ich wirklich gerne was nachtaggen, jetzt bin ich draufgekommen, ah da gibt es eine größere Kategorie, da würden jetzt die anderen auch reinfallen, ja eigentlich damit ich die anderen auch wieder finde müsste ich die auch mit Kraftwerk taggen und nicht mit AKW, weil da gibt es auch andere Kraftwerke, da da kriegt man schon Lust zum nachtaggen. Aber das wird natürlich extrem komplex desto mehr Dateien man hat. Nicht! Also wobei, na ja, ja ok, ja."
+15:30 ce
+15:32 ct "In den Beschreibungen, kann man da rausziehen und nochmal in die Ablage zeihen? Geht das?"
+15:37 ce
+15:38 cf "Nein, da müsste man es aus der Ablage herausziehen, aber wie gesagt für den Test einfach ignorieren."
+15:43 ce
+16:07 m2t 2
+16:22 ta 3
+16:32 ta 4
+16:32 eot
+
+17:13 m2t 7
+17:28 ta 2
+# Testperson weiß nicht mehr welche Tags sie klein und welche groß geschrieben hat
+17:40 ta 3
+17:55 ta 4
+18:04 ta 3
+18:21 ta 2
+18:52 ta 3
+19:05 ta 2
+19:05 eot
+
+19:37 m2t 5
+19:51 ta 2
+20:02 ta 2
+20:04 ta 2
+20:11 ib
+20:15 ie
+20:32 ta 4
+20:45 ta 3
+20:45 eot
+
+21:23 m2t 5
+21:39 ta 4
+21:49 ta 4
+21:58 ta 5
+22:01 ta 2
+22:02 ta 2
+22:02 eot
+
+22:20 ib
+22:25 ie
+22:27 ib
+22:28 ie
+22:29 ib
+22:32 ie
+22:33 ib
+22:34 ie
+
+22:39 m2t 3
+23:10 ta 4
+23:27 ta 3
+23:42 ta 2
+23:42 eot
+
+24:09 m2t 1
+24:25 ta 3
+24:25 eot
+
+24:31 ib
+24:37 ie
+
+24:42 m2t 1
+24:54 ta 2
+24:54 eot
+
+24:55 ct "ich würde mir andere Taste zum tagvervollständigen wünschen, als das runta, irgendwie die tab Taste"
+25:08 ce
+25:12 ib
+# Testperson wünscht sich ein retag von kleine Zeitung auf zeitung 
+25:35 ie
+
+25:39 m2t 1
+25:48 ta 2
+25:48 eot
+
+25:57 m2t 2
+26:05 ta 3
+26:06 ta 3 
+26:06 eot 
+
+26:14 ib 
+26:34 ie 
+
+26:55 m2t 1 
+27:33 ta 3
+27:33 eot 
+
+27:47 m2t 1
+28:00 ta 2
+28:00 eot
+
+28:24 m2t 2
+28:34 ta 3
+28:44 ta 2
+28:44 eot
+
+29:12 m2t 2
+29:30 ta 3
+29:31 ta 3
+29:31 eot
+
+30:09 m2t 7
+30:20 ta 2
+30:21 ta 2
+30:27 ta 2
+30:29 ta 2
+30:31 ta 2
+30:37 ta 2
+30:38 ta 2
+30:38 eot
+
+30:53 m2t 1
+31:02 ta 2
+31:02 eot
+
+31:05 ib
+31:11 ie
+
+31:15 m2t 1
+31:36 ta 3
+31:36 eot
+
+31:47 m2t 1
+31:58 ta 3
+31:58 eot
+
+32:06 m2t 2
+32:31 ta 2
+32:35 ta 2
+32:36 eot
+
+32:48 m2t 1
+32:54 ta 2
+32:54 eot
+
+33:34 m2t 3
+33:44 ta 4
+34:10 ta 4
+34:25 ta 3
+34:25 eot
+
+34:34 m2t 1
+34:47 ta 4
+34:47 eot 
+
+34:57 eott

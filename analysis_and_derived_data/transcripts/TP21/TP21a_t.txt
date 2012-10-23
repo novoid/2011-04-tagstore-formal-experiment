@@ -1,0 +1,256 @@
+07:38 sott
+
+07:55 m2t 1
+08:04 ta 1
+08:04 eot
+
+08:18 m2t 1
+08:22 cf "Manchmal muss man doppelklicken"
+08:24 ce
+08:30 ta 1
+08:30 eot
+
+08:33 ct "Kann man im nachhinein mehrere Tags hinzufügen, wenn man draufkommt"
+08:37 cf "Während des Tests werden wir es nicht machen."
+08:39 ce
+
+08:42 ct "Kann ich die Dateien nocheinmal anschauen?"
+08:43 cf "Ja nat rlich"
+08:44 ce
+
+08:44 ib
+08:49 ie
+
+08:59 m2t 1
+09:09 ta 2
+09:09 eot
+
+09:23 m2t 1
+09:40 ta 1
+09:41 eot
+
+09:53 m2t 1
+09:55 ib
+09:58 ie
+10:08 ta 2
+10:08 eot
+
+10:21 m2t 1
+10:22 ib
+10:27 ie
+10:33 ta 1
+10:33 eot
+
+10:48 m2t 1
+10:53 ta 1
+10:53 eot
+
+10:57 ib
+10:59 ie
+11:09 m2t 1
+11:16 ta 1
+11:17 eot
+
+11:28 m2t 1
+11:29 ib
+11:30 ie
+11:35 ta 1
+11:35 eot
+
+11:45 m2t 1
+11:47 ib
+11:55 ie
+12:01 ta 1
+12:01 eot
+
+12:13 m2t 1
+12:16 ib
+12:27 ie
+12:33 ta 1
+12:33 eot
+
+12:43 m2t 1
+12:44 ib
+13:03 ie
+13:12 ta 1
+13:12 eot
+
+13:22 m2t 1
+13:23 ib
+13:28 ie
+13:33 ta 1
+13:33 eot
+
+13:48 m2t 1
+13:49 ib
+13:53 ie
+14:01 ta 2
+14:01 eot
+
+14:09 m2t 1
+14:12 ib
+14:29 ie
+14:37 ta 2
+14:37 eot
+
+14:45 m2t 1
+14:57 ta 2
+14:57 eot
+
+15:08 m2t 1
+15:12 ib
+15:19 ie
+15:27 ta 2
+15:27 eot
+
+15:35 m2t 1
+15:37 ib
+15:40 ie
+15:44 ta 1
+15:44 eot
+
+15:53 m2t 1
+15:54 ib
+16:03 ie
+16:13 ta 2
+16:13 eot
+
+16:27 m2t 1
+16:28 ib
+16:41 ie
+16:51 ta 2
+16:51 eot
+
+17:00 m2t 1
+17:01 ib
+# Bild lässt sich nicht schließen!!
+17:30 ie
+17:39 ta 2
+17:39 eot
+
+17:54 m2t 1
+17:55 ib
+17:58 ie
+18:06 ta 2
+18:06 eot
+
+18:18 m2t 1
+18:19 ib
+18:23 ie
+18:30 ta 2
+18:30 eot
+
+18:43 m2t 1
+18:44 ib
+18:48 ie
+18:58 ta 3
+18:58 eot
+
+19:10 ct "Achso man kann auch mehrere kopieren gleichzeitig"
+19:14 ce
+19:22 m2t 7
+19:29 ib
+19:33 ie
+19:42 ta 2
+19:47 ib
+19:53 ie
+20:02 ta 1
+20:11 ta 3
+20:18 ib
+20:22 ie
+20:31 ta 2
+20:34 ib
+20:39 ie 
+20:51 ta 1
+21:02 ta 2
+21:06 ta 2
+21:06 eot
+
+21:33 m2t 8
+21:42 ib
+21:46 ie
+21:57 ta 3
+22:10 ta 2
+22:14 ib
+22:17 ie
+22:28 ta 2
+22:36 ta 2
+22:40 ib
+22:43 ie
+22:51 ta 2 
+23:00 ta 2
+23:05 ib
+23:07 ie
+23:20 ib
+23:25 ie
+23:36 ta 3 
+23:38 ib
+23:40 ie 
+23:46 ta 1
+23:46 eot
+
+24:00 m2t 9
+24:08 ib
+24:14 ie
+24:26 ta 2
+24:30 ib
+24:32 ie
+24:42 ta 2
+24:44 ib
+24:50 ie
+24:59 ta 1
+25:03 ib
+25:08 ie
+25:18 ta 2
+25:22 ib
+25:24 ie
+25:35 ta 3
+25:45 ta 1
+25:58 ta 3
+26:03 ib
+# Bild lässt sich nicht schließen!!
+26:46 ie
+26:57 ta 3
+27:01 ib
+27:07 ie
+27:14 ta 2
+27:14 eot
+
+27:27 m2t 12
+27:33 ib
+27:44 ie
+28:02 ta 2
+28:07 ib
+# "Ich schau mir keine Bilder mehr an"
+#" Das ist mein guter Einflauss auf die Computer"
+28:33 ie
+28:34 ct "Geht schon wider"
+28:35 ce
+28:39 ta 1
+28:41 ib
+#"Ah jetzt ist ganz vorbei"
+29:03 ie
+29:11 ta 2
+29:25 ta 2
+29:30 ib
+29:33 ie
+29:43 ta 2
+29:47 ib
+29:52 ie
+30:02 ta 2
+30:09 ta 1
+30:15 ta 1
+30:17 ib
+30:19 ie
+30:26 ta 1
+30:30 ib
+30:48 ie
+30:58 ta 1
+31:01 ib
+31:04 ie
+31:12 ta 2
+31:14 ib
+31:20 ie
+31:31 ta 3
+31:31 eot
+31:31 eott

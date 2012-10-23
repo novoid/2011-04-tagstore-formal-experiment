@@ -1,0 +1,6 @@
+F: Wie wars?
+TP: Wär klass, wenn es so ein Kontextmenü geben würde. Zum Bedienen ist es bis auf ein paar
+Kleinigkeiten gut gegangen. Was mir aufgefallen ist, ist wenn man einen Begriff eingegeben hat,
+den man schon einmal eingegeben hat wählt man den.. bei den meisten Browsern ist das umgekehrt.
+F: Sonst noch was?
+TP: Nicht ganz optimal war, dass man nicht alle angelegten tags gesehen hat.

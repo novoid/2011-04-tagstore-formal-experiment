@@ -1,0 +1,78 @@
+20:05 sott
+20:14 m2t 60
+20:44 ta 2
+20:51 ta 2
+21:05 ta 2
+21:15 ta 2
+21:33 ta 3
+21:54 ct "Kann ich jetzt einfach einen Tag umbenennen?"
+22:14 ce
+22:16 ta 2
+22:46 ta 2
+22:56 ta 2
+23:05 ta 2
+23:24 ta 3
+23:37 ta 1
+23:44 ta 2
+24:01 ta 3
+24:17 ta 2
+24:29 ct "Jetzt habe ich schon das erste Mal das Problem, dass ich nicht mehr weiß, welchen tag ich für Essen verwendet habe."
+24:49 ce
+24:53 cf "Sie können sonst in der Zwischenzeit auch im Beschreibungen Ordner nachschaun."
+25:00 ce
+25:19 ta 2
+25:37 ta 3
+25:45 ta 2
+26:04 ta 3
+26:23 ta 3
+26:32 ta 2
+26:39 ta 2
+26:48 ta 2
+26:55 ta 1
+27:07 ct "Jetzt habe ich mich vertaggt."
+27:08 ce
+27:15 ta 2
+27:32 ta 2
+27:41 ta 2
+28:04 ta 3
+28:11 ta 1
+28:23 ta 3
+28:35 ta 3
+28:41 ta 3
+28:48 ta 2
+28:57 ta 3
+28:59 ta 3
+29:06 ta 2
+29:20 ta 3
+29:27 ta 2
+29:39 ta 2
+29:44 ta 3
+29:56 ta 2
+30:01 ta 3
+30:06 ta 2
+30:13 ta 2
+30:30 ib
+30:32 ie
+30:39 ta 3
+30:55 ib
+30:59 ie
+31:03 ta 3
+31:12 ta 2
+31:19 ta 2
+31:24 ta 2
+31:29 ta 2
+31:33 ta 2
+31:40 ib
+31:42 ie
+31:47 ta 2
+31:52 ta 3
+31:56 ta 2
+32:03 ta 3
+32:10 ta 3
+32:19 ta 3
+32:26 ta 3
+32:34 ta 3
+32:41 ta 3
+32:45 ta 2
+32:46 eot
+32:47 eott

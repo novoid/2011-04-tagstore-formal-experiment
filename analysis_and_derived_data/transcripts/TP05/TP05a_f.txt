@@ -1,0 +1,139 @@
+01:32 sotf
+01:33 cf "Ich werde den Ordner noch schnell ausleeren."
+01:40 ce
+02:00 ct "Muss ich da jetzt immer klicken?..."
+02:06 ce
+02:12 mkf News
+02:19 ct "Strg N öffnet immer ein neues Fenster."
+02:30 ce
+02:32 mkf Bilder
+02:42 mkf Dokumente
+02:51 mkf Fun
+03:02 mkf Rezepte
+03:13 mkf Wohnung
+03:52 mkf "2011"
+04:09 ib
+04:11 ie
+04:12 ib
+04:14 ie
+04:26 ib
+04:31 ie
+04:40 mkf "03"
+04:47 m2f 3 "03"
+04:49 m2f 1 "03"
+05:00 ct "Und wenn ich jetzt eine Datei in mehrere Ordner einordnen möchte?"
+05:06 ce
+05:07 m2f 1 "03"
+05:27 m2f 1 "03"
+05:37 ib
+05:39 ie
+05:53 m2f 1 "03"
+06:15 m2f 1 Rezepte
+06:19 ib
+06:29 ie
+06:36 ib
+06:38 ie
+06:54 m2f 1 Rezepte
+06:57 ib
+07:01 ie
+07:04 m2f 1 "03"
+07:09 m2f 1 Rezepte
+07:11 ib
+07:13 ie
+07:17 ib
+07:19 ie
+07:39 renf Wohnung "Antraege und so"
+07:46 mkf "Neuer Ordner"
+07:58 renf "Neuer Ordner" Graz
+08:04 m2f 1 "Antraege und so"
+08:12 m2f 1 Graz
+08:21 m2f 1 Graz
+08:33 ib
+08:37 ie
+08:40 mkf "01"
+08:46 m2f 1 "01"
+08:54 mkf Sport
+09:05 m2f 2 Sport
+09:07 ib
+09:09 ie
+09:11 ib
+09:19 ie
+09:24 ib
+09:26 ie
+09:27 m2f 1 "Antraege und so"
+09:31 m2f 1 "Antraege und so"
+09:33 ib
+09:41 ie
+09:46 m2f 1 "03"
+09:49 ib
+09:51 ie
+09:53 m2f 1 "03"
+09:55 ib
+10:02 ie
+10:23 mkf Gesundheit
+10:44 m2f 2 Gesundheit
+10:46 ib
+10:49 ie
+10:51 m2f 1 "03"
+10:53 ib
+10:54 ie
+10:56 m2f 1 "03"
+10:58 ib
+11:00 ie
+11:02 m2f 1 Gesundheit
+11:05 ib
+11:07 ie
+11:09 m2f 1 Bilder
+11:13 ib
+11:14 ie
+11:16 m2f 1 Fun
+11:20 ib
+11:21 ie
+11:23 m2f 1 Fun
+11:26 ib
+11:30 ie
+11:33 ib
+11:35 ie
+11:46 ib
+11:57 ie
+12:06 ib
+12:07 ie
+12:10 m2f 1 Fun
+12:15 ct "Kann man da irgendwie die Ansicht ändern? Ich kenne mich damit nicht aus."
+12:35 ce
+12:50 m2f 8 Fun
+12:56 ib
+12:58 ie
+13:05 ib
+13:08 ie
+13:25 mkf Karten
+13:37 m2f 2 Karten
+13:45 ct "Darf ich was löschen auch? F: Nein leider nicht."
+13:50 ce
+14:14 mkf "2011"
+14:32 mkf "03"
+14:47 m2f 1 "03"
+14:54 mkf "2010"
+14:57 mkf "03"
+15:06 m2f 1 "03"
+15:25 m2f 4 Rezepte
+15:26 m2f 1 Rezepte
+15:52 m2f 1 "03"
+15:53 mkf "2009"
+15:57 mkf "07"
+16:03 m2f 1 "07"
+16:10 m2f 1 "07"
+16:13 m2f 1 "2010"
+16:16 ib
+16:18 ie
+16:20 m2f 1 Rezepte
+16:36 m2f 1 "03"
+16:39 ib
+16:42 ie
+16:57 mkf Garten
+17:00 m2f 1 Garten
+17:07 mkf Misc
+17:08 ct "Jetzt kommt der berühmte Miscordner. Da kommt alles rein..."
+17:10 ce
+17:15 m2f 7 Misc
+17:16 eotf

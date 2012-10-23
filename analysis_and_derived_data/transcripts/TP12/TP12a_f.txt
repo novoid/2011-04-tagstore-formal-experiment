@@ -1,0 +1,105 @@
+01:47 sotf
+
+02:04 mkf Bilder
+
+02:52 m2f 38 Bilder
+
+03:12 mkf Dokumente
+
+03:22 m2f 22 Dokumente
+
+03:31 mkf Rezepte
+03:41 mkf Sport
+03:50 ff 1 Rezepte
+
+03:53 ff 1 Rezepte
+
+04:06 ff 1 Sport
+
+04:11 ff 1 Sport
+
+04:14 ff 1 Sport
+
+04:26 mkf Kraftwerke
+
+04:32 ff 2 Kraftwerke
+
+04:43 mkf Gesundheit
+
+04:49 ff 2 Gesundheit
+
+04:59 ct "Kann ich die auch ansehen?"
+
+05:00 ce
+05:01 cf "Ja sicher."
+
+05:02 ce
+05:03 ib
+05:04 ie
+05:06 ff 1 Rezepte
+
+05:18 ct "Wie benenne ich das am besten?"
+05:20 ce
+
+05:28 mkf Offizielles
+05:33 ff 1 Offizielles
+
+05:37 ff 1 Offizielles
+
+05:40 ff 1 Offizielles
+
+05:48 ff 1 Kraftwerke
+05:51 ff 1 Offizielles
+05:54 ff 1 Offizielles
+
+06:01 ff 1 Gesundheit
+
+06:05 ib
+
+06:07 ie
+06:23 mkf Urlaub
+06:27 ff 1 Urlaub
+
+06:29 ff 1 Urlaub
+06:39 mkf Sonstiges
+
+06:42 ff 3 Sonstiges
+
+06:51 mkf Humor
+
+07:19 ff 9 Humor
+07:29 mkf Essen
+07:45 ff 6 Essen
+07:48 ff 1 Humor
+
+07:57 ff 1 Humor
+
+08:02 ff 1 Essen
+
+08:06 mkf Sport
+08:12 ff 1 Sport
+
+08:14 ff 1 Sport
+
+08:17 ff 1 Sport
+
+08:31 mkf Kraftwerke
+
+08:43 ff 5 Kraftwerke
+
+08:51 mkf Blumen
+09:00 ff 3 Blumen
+09:13 mkf Staedte
+
+09:19 ff 3 Staedte
+
+09:27 mkf Urlaub
+09:35 ff 3 Urlaub
+
+09:39 ff 2 Staedte
+
+09:47 mkf Gesundheit
+
+09:50 ff 1 Gesundheit
+
+10:00 eotf

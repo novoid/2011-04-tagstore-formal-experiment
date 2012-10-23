@@ -1,0 +1,390 @@
+07:32 sott
+
+07:48 ct "Darf ich ein zweites Fenster aufmachen?"
+
+07:49 ce
+07:50 cf "Ja, natürlich!"
+
+07:51 ce
+#Testperson öffnet zweites Fenster
+
+08:15 m2t 1
+08:32 ta 3
+08:33 eot
+08:39 m2t 1
+
+08:50 ta 3
+08:51 eot
+
+08:56 m2t 1
+09:05 ct "Kann ich hierarchische tags vergeben? Mit Allergie als sub-tag von Krankheit?"
+09:07 ce
+09:08 cf "Wie meinen Sie das? Nein da werden beide gleich gestellt."
+09:17 ce
+
+09:18 ta 4
+
+09:19 eot
+
+09:25 m2t 1
+
+09:36 ta 3
+
+09:37 eot
+
+09:39 ib
+
+09:41 ie
+
+09:43 m2t 1
+09:47 ta 2
+
+09:48 eot
+
+09:57 m2t 1
+
+10:05 ta 2
+10:06 eot
+10:09 m2t 1
+
+10:20 ta 2
+
+10:21 eot
+
+10:25 m2t 1
+
+10:29 ta 2
+
+10:30 eot
+
+10:32 m2t 1
+
+10:37 ta 3
+
+10:38 eot
+
+10:40 ib
+
+10:44 ie
+
+10:47 m2t 1
+
+10:55 ta 2
+
+10:56 eot
+
+10:58 ib
+11:01 ie
+
+11:04 m2t 1
+
+11:09 ct "Kann ich mir mehr von den tags anzeigen lassen?"
+
+11:11ce
+
+11:12 cf "Nein das ist die maximale Anzeige."
+
+11:13 ce
+
+#Testperson sieht im Beschreibungen-Ordner nach seinen tags
+
+11:31 ta 2
+
+11:32 eot
+
+11:36 ib
+
+11:39 ie
+
+11:41 m2t 1
+11:50 ta 2
+
+11:51 eot
+
+11:54 m2t 1
+12:05 ta 2
+
+12:06 eot
+
+12:09 m2t 1
+
+12:19 ta 2
+
+12:23 eot
+12:26 ct "Kann man einen tag im Nachhinein ändern? Ich möchte aus Krankheit Gesundheit machen."
+12:27 ce
+12:28 cf "Könnte man schon aber für den Test nicht."
+
+12:30 ce
+
+12:36 m2t 1
+
+12:52 ta 2
+
+12:53 eot
+
+12:55 m2t 1
+
+13:02 ta 3
+
+13:03 eot
+
+13:05 ib
+
+13:08 ie
+
+13:11 m2t 1
+
+13:26 ta 3
+13:27 eot
+13:30 m2t 1
+
+13:36 ta 2
+
+13:37 eot
+
+13:39 m2t 1
+
+13:50 ta 2
+13:51 eot
+
+13:54 m2t 1
+14:06 ta 2
+
+14:07 eot
+14:09 m2t 1
+
+14:13 ta 2
+
+14:14 eot
+
+14:17 m2t 1
+
+14:22 ta 2
+
+14:23 eot
+
+14:25 m2t 1
+
+14:33 ta 3
+
+14:34 eot
+
+14:36 ib
+
+#Fotoanzeige lässt sich nicht schließen
+#14:39 cf "Einfach runter dann geht's wieder."
+
+#14:43 ce
+14:45 ie
+14:48 m2t 1
+
+14:58 ta 3
+14:59 eot
+
+15:03 m2t 1
+15:12 ta 3
+
+15:13 eot
+15:14 ib
+
+15:16 ie
+
+15:17 m2t 1
+
+15:28 ta 3
+
+15:29 eot
+
+15:32 m2t 1
+15:39 ta 2
+15:40 eot
+
+15:43 m2t 1
+15:47 ta 2
+
+15:48 eot
+
+15:52 m2t 1
+
+15:57 ta 3
+
+15:58 eot
+
+15:59 ib
+
+16:01 ie
+
+16:03 m2t 1
+16:16 ta 3
+
+16:17 eot
+16:17 ib
+
+16:21 ie
+16:24 m2t 1
+16:39 ta 3
+
+16:40 eot
+16:44 m2t 1
+
+16:47 ta 2
+
+16:48 eot
+
+16:52 m2t 2
+
+17:05 ct "Kann ich die gleichzeitig tagen?"
+
+17:06 ce
+
+17:07 cf "Nein."
+
+17:08 ce
+
+17:23 ta 2
+
+17:26 ta 2
+
+17:27 eot
+
+17:29 ct "Die kann ich raus löschen. Da sind ja noch einige."
+
+17:38 ce
+17:51 m2t 1
+
+17:57 ta 2
+
+17:58 eot
+18:04 m2t 2
+
+18:09 ta 2
+
+18:10 ta 2
+
+18:11 eot
+18:13 m2t 1
+
+18:17 ta 2
+
+18:18 eot
+18:22 m2t 1
+
+18:26 ta 2
+
+18:26 eot
+
+18:30 m2t 1
+
+18:34 ta 2
+
+18:35 eot
+
+18:37 m2t 1
+
+18:41 ta 2
+
+18:42 eot
+
+18:46 m2t 2
+
+18:52 ta 2
+
+18:53 ta 2
+
+18:54 eot
+
+18:57 m2t 1
+19:03 ta 2
+
+19:04 eot
+
+19:07 m2t 1
+19:14 ta 2
+
+19:15 eot
+19:18 m2t 1
+
+19:21 ta 2
+19:22 eot
+
+19:26 m2t 1
+
+19:31 ta 3
+
+19:32 eot
+19:34 m2t 1
+
+19:43 ta 2
+
+19:44 eot
+
+19:48 m2t 1
+
+19:55 ta 3
+
+19:56 eot
+
+19:58 ib
+
+19:59 ie
+
+20:00 m2t 1
+
+20:04 ta 3
+
+20:05 eot
+
+20:08 m2t 1
+
+20:18 ta 3
+
+20:19 eot
+
+20:21 m2t 1
+
+20:33 ta 3
+
+20:34 eot
+20:36 m2t 1
+
+20:40 ta 2
+
+20:41 eot
+
+20:44 m2t 1
+
+20:49 ta 2
+
+20:50 eot
+20:51 m2t 1
+
+20:56 ta 3
+20:57 eot
+
+21:04 m2t 1
+
+21:10 ta 2
+
+21:11 eot
+21:15 m2t 1
+
+21:24 ta 3
+
+21:25 eot
+
+21:27 m2t 1
+
+21:33 ta 3
+21:34 eot
+
+21:37 m2t 1
+21:45 ta 4
+
+21:46 eot
+21:48 m2t 1
+
+21:54 ta 2
+
+21:55 eot
+21:56 eott

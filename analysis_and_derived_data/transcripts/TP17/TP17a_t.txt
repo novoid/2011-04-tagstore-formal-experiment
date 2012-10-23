@@ -1,0 +1,166 @@
+#während des ganzen Tests musste man das tagstore Fenster manuell hervorheben
+
+07:16 sott
+07:22 ct "Das heißt, ich kann gleich mehrere auswählen und die dann ablegen."
+07:29 ce
+07:30 cf "Mehrere Dateien mit Steuerung."
+
+07:53 ce
+08:53 m2t 6
+08:55 ct "Da drauf klicken?!"
+
+08:57 ce
+
+09:03 ct "Er fängt in der Mitte an? Da kann ich jetzt mehrere mit dem gleichen tag versehen?"
+
+09:15 ce
+09:22 cf "Am besten nacheinander tagen."
+
+09:25 ce
+
+09:26 ct "Ich kann nicht mehrere auswählen und tags vergeben."
+
+09:30 ce
+
+09:54 ta 2
+10:29 ta 2
+
+10:33 ta 2
+
+10:49 ta 2
+
+10:53 ta 2
+
+11:11 ta 2
+
+11:12 eot
+
+11:16 ct "Wo waren die Dateien?"
+
+11:17 ce
+
+12:08 m2t 3
+12:11 cf "Wenn er sich beim ersten Mal nicht öffnet einfach auf das Fenster doppelt klicken."
+12:14 ce
+
+12:38 ta 2
+
+12:53 ta 2
+
+13:08 ta 2
+
+13:09 eot
+
+14:26 m2t 8
+
+14:48 ta 1
+14:51 ta 1
+
+14:52 ta 1
+
+14:53 ta 1
+
+14:56 ta 1
+14:57 ta 1
+
+14:58 ta 1
+14:59 ta 1
+15:00 eot
+
+15:15 ct "Kann man die Dateien noch einmal ansehen?"
+
+15:18 ce
+
+15:20 ib
+
+15:23 ie
+
+15:34 m2t 1
+
+15:46 ta 1
+
+15:47 eot
+
+17:11 m2t 21
+17:30 ta 1
+17:41 ta 2
+17:56 ta 2
+17:59 ta 2
+
+18:08 ta 2
+
+18:20 ta 2
+
+18:31 ta 2
+
+18:39 ta 2
+
+18:44 ta 2
+18:46 ta 2
+
+18:59 ta 1
+
+19:01 ta 1
+19:02 ta 1
+
+19:07 ta 2
+
+19:15 ta 2
+
+19:26 ta 1
+19:30 ta 2
+19:37 ta 2
+
+19:42 ta 1
+19:48 ta 2
+19:56 ta 2
+
+19:57 eot
+20:37 m2t 13
+
+20:54 ta 2
+
+21:06 ta 2
+21:19 ta 2
+21:29 ta 2
+21:45 ta 2
+21:53 ta 2
+
+22:12 ta 3
+
+22:15 ta 3
+22:23 ta 3
+22:34 ta 2
+22:45 ta 3
+22:53 ta 2
+23:05 ta 3
+23:06 eot
+
+23:31 m2t 4
+
+23:55 ta 3
+24:07 ta 2
+24:16 ta 2
+
+24:25 ta 2
+24:26 eot
+
+24:30 ib
+24:32 ie
+24:34 ib
+24:35 ie
+24:46 m2t 2
+
+24:59 ta 1
+25:01 ta 1
+
+25:02 eot
+
+25:14 m2t 2
+
+25:58 ta 3
+
+26:03 ta 3
+26:04 eot
+
+26:10 eott

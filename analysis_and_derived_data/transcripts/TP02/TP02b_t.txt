@@ -1,0 +1,12 @@
+10:35 tf 14 03.40 2 0
+10:51 tf 15 04.81 2 0
+11:23 tf 16 23.70 2 0
+11:35 tf 17 04.70 2 0
+12:30 tf 18 45.57 6 0
+12:41 tf 19 02.91 2 0
+12:56 tf 20 05.78 2 0
+13:25 tf 21 20.02 3 0
+#bei 15min 42sek "Task wurde abgebrochen, da Item nicht auffindbar"
+#Zeit über 1 Minute
+15:42 tc 22 02:07.09
+15:51 tf 23 05.42 2 0

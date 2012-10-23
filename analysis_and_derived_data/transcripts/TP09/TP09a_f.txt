@@ -1,0 +1,187 @@
+01:42 sotf
+
+01:43 ct "Übliche Ordnervariante. Legen Sie die 60 Dateien in eine Ordnerhierarchie ab. Ok, dann schauen wir mal."
+
+01:51 ce
+
+02:00 mkf atom
+
+02:02 ct "Hups"
+
+02:02 ce
+02:14 renf atom energie
+
+02:16 ct "Ich habe es mir vorher schon etwas angesehen"
+02:19 ce
+
+02:23 mkf atomkraft
+02:30 mkf wasserkraft
+
+02:47 m2f 2 atomkraft
+
+02:51 ct "Soll ich auch etwas dazu sagen? Ist das als thinking aloud gedacht?"
+
+02:53 ce
+
+02:53 cf "Nein, es ist kein thinking aloud Test."
+
+02:56 ce
+
+03:03 m2f 1 atomkraft
+03:14 mkf formulare
+
+03:20 ct "Wo habe ich das gehabt?"
+
+03:23 ce
+03:25 m2f 1 formulare
+
+03:50 mkf oeffentl_verkehr
+
+04:00 m2f 1 oeffentl_verkehr
+
+04:11 m2f 1 atomkraft
+04:34 mkf essen_und_trinken
+
+04:44 mkf fotos
+
+04:49 mkf rezepte
+
+04:59 m2f 1 fotos
+
+05:16 mkf fun
+
+05:20 ib
+
+#Windows Fotoanzeige lässt sich nicht schließen
+#05:27 ct "Geht das nicht zu?"
+
+#05:29 ce
+
+#05:30 cf "Nein, zwischendurch braucht er einfach etwas."
+#05:31 ce
+
+05:32 ie
+05:39 m2f 1 fun
+
+05:48 m2f 1 fun
+
+06:05 m2f 1 fun
+
+06:17 m2f 1 fun
+
+06:31 m2f 2 oeffentl_verkehr
+
+06:42 m2f 1 fotos
+06:50 m2f 1 fun
+06:57 m2f 1 fotos
+
+07:07 m2f 1 fun
+
+07:19 m2f 1 fotos
+
+07:35 m2f 1 formulare
+
+07:43 m2f 1 formulare
+
+07:55 m2f 1 fun
+
+08:04 m2f 1 atomkraft
+08:18 m2f 1 fotos
+
+08:29 m2f 1 fun
+
+08:41 m2f 1 rezepte
+
+08:49 m2f 1 fun
+
+09:03 m2f 1 essen_und_trinken
+
+09:12 ib
+
+09:14 ie
+
+09:22 m2f 1 fotos
+
+09:28 m2f 1 oeffentl_verkehr
+
+09:39 m2f 1 wasserkraft
+
+09:49 m2f 1 fun
+
+09:59 m2f 1 fun
+10:06 ib
+10:09 ie
+
+10:13 m2f 1 rezepte
+
+10:29 mkf "urlaub-reise"
+
+10:37 m2f 1 "urlaub-reise"
+
+10:52 m2f 1 essen_und_trinken
+
+11:28 m2f 3 "urlaub-reise"
+
+11:35 m2f 1 "urlaub-reise"
+
+11:41 ib
+11:42 ie
+
+11:46 m2f 1 fun
+11:52 m2f 1 "urlaub-reise"
+
+12:07 mkf sport
+
+12:13 mkf formel_1
+
+12:20 mkf marathon
+12:31 ct "Triathlon und Marathon, das ist mir vorher gar nicht aufgefallen."
+12:35 ce
+
+12:38 m2f 2 marathon
+
+12:47 mkf triathlon
+
+12:58 m2f 2 triathlon
+13:03 m2f 1 formel_1
+13:21 m2f 1 formel_1
+
+13:26 ib
+
+13:29 ie
+
+13:40 mkf gesundheit
+14:03 m2f 3 gesundheit
+
+14:45 mkf freizeit
+
+14:47 mvf 1 "urlaub-reise freizeit"
+14:56 mvf 1 "sport freizeit"
+15:12 mkf garten
+
+#15:29 beim Einfügen von Dateien kommt die Meldung "Zielornder ist dem Quellordner untergeordnet". Testperson hat die Dateien nicht richtig ausgeschnitten.
+
+15:34 ct "Habe ich mich verdrückt?"
+
+15:36 ce
+
+15:45 m2f 4 garten
+
+15:54 m2f 1 garten
+16:00 ib
+
+16:01 ie
+16:06 m2f 3 "urlaub-reise"
+
+16:09 ib
+16:21 ie
+
+16:27 m2f 1 gesundheit
+
+16:30 ib
+
+16:36 ie
+16:40 m2f 1 freizeit
+16:49 mvf 1 "essen_und_trinken freizeit"
+16:58 mvf 1 "fun freizeit"
+17:07 eotf

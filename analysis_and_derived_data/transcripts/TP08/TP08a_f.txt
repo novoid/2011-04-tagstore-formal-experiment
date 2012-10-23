@@ -1,0 +1,39 @@
+01:40 sotf
+02:01 mkf Formulare
+02:07 mkf Bilder
+02:15 mkf Rezepte
+02:58 m2f 2 Formulare
+03:11 m2f 1 Formulare
+03:22 mkf Fun
+04:06 m2f 3 Fun
+04:29 m2f 1 Fun
+05:13 m2f 4 Fun
+05:23 mkf Pflanzen
+06:17 m2f 2 Bilder
+06:44 m2f 23 Bilder
+07:13 mkf Info
+07:19 renf Info Infos
+07:26 mkf Atomkraft
+07:57 m2f 4 Atomkraft
+08:15 m2f 2 Fun
+09:01 mkf Ernährung
+09:03 m2f 6 Ernährung
+09:38 mkf Verkehrsinfos
+09:40 m2f 3 Verkehrsinfos
+#TP hat Dateien kopiert und nicht verschoben, versucht nun die 3 Dateien irgendwie loszuwerden/erneut zu verschieben.
+#von 09:43
+#bis 10:32
+10:40 ib
+10:45 ie
+11:03 m2o 1
+11:12 ff 1 Atomkraft
+11:24 mkf Urlaub
+11:34 mkf as
+11:50 m2f 2 Urlaub
+11:56 renf as Allergien
+12:10 m2f 2 Allergien
+12:20 ib
+12:26 ie
+12:34 m2o 5
+13:05 delf Pflanzen
+13:16 eotf

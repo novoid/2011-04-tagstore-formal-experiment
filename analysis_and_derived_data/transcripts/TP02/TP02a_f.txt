@@ -1,0 +1,15 @@
+01:46 sotf
+01:51 cf "Ich leere noch schnell die Ordner"
+02:01 ce
+02:34 mkf Atomkraft
+02:38 m2f 3 Atomkraft
+02:57 cf "Während dem scrollen einfach die Strg Taste loslassen. Soll ich es dir zurücksetzen?"
+03:03 ce
+03:45 mkf Essen
+03:49 m2f 10 Essen
+05:03 mkf Bilder
+05:07 m2f 25 Bilder
+05:43 m2f 7 Bilder
+06:19 mkf Diverses
+06:22 m2f 15 Diverses
+06:26 eotf

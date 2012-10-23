@@ -1,0 +1,196 @@
+#20:09 sott
+#20:10 ct "ujjjj, geht das ganze von vorne wieder los"
+#20:12 ce
+#20:24 m2t 5 
+#20:25 ct "Kann man hier auch mehrere auswählen? Oder muss ich da jede einzeln durchgehen?"
+#20:31 cf "Genau, aber die Tags bleiben erhalten!"
+#22:06 ct "Ich darf mich da austoben, oder?"
+#22:07 cf "Ja natürlich"
+#22:08 ce
+#22:23 ta 7
+#22:24 fb "Kommentar"
+#24:00 fe
+# 24:00 Abbruch
+# Test Abbruch, Neubeginn!!!!!!!!!
+
+28:22 sott
+28:33 m2t 2
+29:44 ta 5
+29:57 ta 5
+29:57 eot
+
+30:09 m2t 1
+30:11 ct "Kann ich jetzt da unten hinaufklicken"
+30:12 cf "Ja, natürlich"
+30:14 ce
+30:39 ct "Muss ich Enter drucken"
+30:40 ce
+30:50 ta 4
+30:50 eot
+
+31:02 m2t  1
+31:05 ta 1 
+31:05 eot
+
+# mit Kno getagt, TP  hat sich vertippt...
+31:07 ct "Na"
+31:07 cf "Ok,wenn ein Tag jetzt falsch vergeben ist, werden  wir es bei dem Test nicht ausbessern..."
+31:14 ce
+
+31:20 m2t 1
+31:29 ct "Da jetzt Enter drücken?"
+31:31 cf "Runter und jetzt Enter, Ja"
+31:32 ce
+31:46 ta 4
+31:46 eot
+
+32:01 m2t 1
+32:20 ta 2
+32:20 eot
+
+32:28 m2t 1
+32:42 ta 3
+32:42 eot
+
+32:56 m2t 1
+33:14 ta 3
+33:14 eot
+
+33:33 m2t 1
+33:48 ta 2
+33:48 eot
+
+34:29 m2t 5
+34:50 ta 4
+34:56 ta 4
+35:35 ta 4
+35:44 ta 4
+35:59 ta 3
+35:59 eot
+
+36:37 m2t 5
+36:58 ta 3
+# falsch vergebener Tag USA, nicht das erste Dokument ist markiert, TP merkt das nicht Vielleicht sollte man highliting etwas deutlicher machen
+ 37:10 ta 3
+ 37:56 ta 3
+ 38:00 ta 3
+ 38:10 ta 3
+ 38:10 eot
+  
+ 38:25 m2t 1
+ 38:38 ta 2
+ 38:38 eot
+ 
+ 38:44 m2t 1
+ 38:59 ta 3
+ 38:59 eot
+ 
+ 39:50 m2t 4
+40:10 ct "Achso, des san ja gar keine Rezepte, des san ja Bilder"
+40:29 ce
+40:31 ib
+40:45 ie 
+40:56 ta 2
+40:57 ta 2
+41:01 ib
+41:03 ie
+41:12 ta 2
+41:26 ta 2
+41:26 eot
+
+41:36 m2t 3
+41:47 ta 3
+41:58 ta 3
+42:00 ta 3
+42:00 eot
+
+42:25 m2t 4
+42:34 ta 2
+42:41 ta 2
+42:51 ta 2
+42:56 ta 2
+42:56 eot
+
+43:15 m2t 4
+43:42 ta 3
+44:03 ta 2 
+44:09 ta 2
+44:24 ta 1
+44:42 ib
+44:49 ie
+44:49 eot
+
+44:56 m2t 1
+45:06 ta 2
+45:06 eot
+
+45:11 m2t 1
+45:17 ta 2
+45:17 eot
+
+45:20 ib
+45:23 ie
+45:27 m2t 1
+45:35 ta 2
+45:35  eot
+ 
+45:44 m2t 11
+46:20 ta 2
+46:21 ta 2
+46:22 ta 2
+46:22 ta 2
+46:22 ta 2
+46:23 ta 2 
+46:23 ta 2
+46:23 ta 2
+46:24 ta 2
+46:24 ta 2
+46:25 ta 2
+46:25 eot
+
+46:38 m2t 1
+46:51 ta 2
+46:51 eot
+
+46:54 m2t 1
+47:02 ta 2
+47:02 eot
+
+47:09 ib
+47:13 ie
+47:15 m2t 1
+47:19 ta 1
+47:19 eot
+
+47:23 m2t 1
+47:35 ta 3
+47:35 eot
+
+47:43 m2t 2
+47:55 ta 2
+48:00 ta 1
+48:00 eot
+
+48:08 m2t 1
+48:13 ta 2
+48:13 eot 
+
+48:17 m2t 1
+48:25 ct "Wo isn das?"
+48:30 ce
+48:31 ta 4
+48:31 eot
+
+48:32 ib
+48:39 ie
+48:42 m2t 1
+48:47 ta 2
+48:47 eot
+
+48:48 ib
+48:56 ie
+48:59 m2t 1
+49:12 ta 2
+49:12 eot
+
+49:13 eott

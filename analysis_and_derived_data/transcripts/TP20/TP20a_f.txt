@@ -1,0 +1,34 @@
+36:53 sotf
+37:07 mkf Comics
+37:18 mkf Zeitungsberichte
+37:25 mkf Bilder
+37:36 mkf Essen
+37:44 mkf Urlaub
+38:18 mkf Atomkraft
+38:24 mkf Sport
+40:14 m2f 11 Comics
+40:49 m2f 6 Essen
+41:01 mkf Blume
+41:07 renf Blume Pflanzen
+41:35 m2f 3 Pflanzen
+41:41 m2f 1 Comics
+41:57 mkf Rezepte
+42:27 mkf "Öffentlicher Verkehr"
+43:24 m2f 4 "Öffentlicher Verkehr"
+44:17 m2f 6 Urlaub
+44:31 m2f 5 Bilder
+45:04 m2f 6 Atomkraft
+45:28 renf Atomkraft "Atom - und Wasserkraft" 
+46:03 m2f 2 Rezepte
+46:12 mkf Gesundheit
+46:15 mvf 1 Gesundheit
+46:39 mkf Sport
+47:16 m2f 4 Sport
+47:45 m2f 4 Gesundheit
+47:48 ib
+47:54 ie
+48:14 m2f 4		 Zeitungsberichte
+48:23 mkf Formulare
+48:30 m2f 3 Formulare
+48:33 eotf
+

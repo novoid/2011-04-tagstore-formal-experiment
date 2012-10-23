@@ -1,0 +1,132 @@
+07:37 sott
+
+08:16 m2t 1
+08:40 ta 3
+08:40 eot
+
+09:13 m2t 1
+09:41 ta 3
+09:41 eot
+
+10:17 m2t 1
+10:20 fb "tagstore geht nicht auf"
+10:24 fe  
+10:49 ta 1
+10:49 eot
+
+10:50 ct "Testperson will sich die Tags anschauen, die sie vergeben hat, Facilitatior erklärt, dass die Tags im Beschreibungen Ordner angeschaut werden können, und dass das verändern der Tags für den Test nicht berücksichtigt wird, dass die Testkandidatin eben die Tags nicht mehr verändern kann, die sie schon vergeben hat. - Testperson erklärt, dass sie sich drei mal vertippt hat, und sie nun 3 unterschiedliche Ordner erhalten hat."
+11:31 ce
+
+11:55 m2t 1
+12:11 ta 1
+12:11 eot
+
+12:19 ib
+12:30 ie
+
+14:10 m2t 7
+14:25 ta 2
+14:32 ta 2
+14:35 ta 2
+14:45 ta 3
+14:46 ta 3
+15:17 ta 2
+15:24 ta 2
+15:24 eot
+
+15:35 ib
+15:38 ie
+
+16:02 ib
+16:04 ie
+
+16:11 ib
+16:13 ie
+
+16:37 ib
+16:48 ie
+
+16:59 ct "Testperson will im nach hinein Tags vergeben, Moderator erklärt, dass das für den Test nicht vorgesehen ist."
+17:10 ce
+
+17:14 ib
+17:19 ie
+
+18:01 m2t 6
+18:22 ta 2
+18:22 ta 2
+18:23 ta 2
+18:23 ta 2
+18:24 ta 2
+18:25 ta 2
+18:25 eot
+
+19:31 m2t 14
+19:50 ta 2
+19:53 ta 2
+20:22 ta 3
+20:33 ta 2
+20:46 ta 2
+21:27 ta 3
+21:33 ta 3
+21:47 ta 3
+21:58 ta 2
+22:15 ta 2
+22:30 ta 3 
+22:48 ta 3
+22:55 ta 2
+23:04 ta 2
+23:04 eot
+
+23:43 m2t 11
+24:11 ta 2
+24:18 ta 1
+24:34 ta 2
+24:37 ta 2
+24:54 ta 3
+25:14 ta 2
+25:20 ta 2
+25:32 ta 3
+25:35 ta 3
+25:45 ta 2
+25:59 ta 2
+25:59 eot
+
+26:24 ib
+26:29 ie
+
+26:36 ib
+26:40 ie
+
+27:04 m2t 5
+27:40 ta 3
+27:55 ta 2
+28:06 ta 3
+28:14 ta 1
+28:19 ta 2
+28:19 eot 
+
+29:02 m2t 3
+29:14 ta 1
+29:20 ta 2
+29:27 ta 2
+29:27 eot
+
+29:40 m2t 10
+30:08 ta 1
+30:13 ta 1
+30:24 ta 3
+30:35 ta 2
+30:41 ta 1
+30:46 ta 1
+30:54 ta 2
+30:57 ta 2
+31:05 ta 2
+31:12 ta 2
+31:12 eot
+
+31:18 eott
+
+
+
+
