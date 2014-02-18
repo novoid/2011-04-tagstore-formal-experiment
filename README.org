@@ -42,7 +42,7 @@ things such as evaluation scripts are in *English* though.
 
 * White Papers
 
-Several related white papers are linked [[http://tagstore.ist.tugraz.at/en/papers][on the tagstore homepage]].
+Several related white papers are linked [[http://tagstore.org/en/papers.shtml][on the tagstore homepage]].
 
 * License
 
