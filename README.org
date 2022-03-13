@@ -31,7 +31,7 @@ find [[https://github.com/novoid/2011-01-tagstore-formal-experiment][the January
 another experiment with slightly different focus. This repository
 holds relevant data of this second experiment in April 2011.
 
-For the purpose of the experiments, the testing framework [[http://tagstore.org][tagstore]] was
+For the purpose of the experiments, the testing framework [[https://karl-voit.at/tagstore/][tagstore]] was
 used to *compare* storing files (images, graphics and documents)
 within the *folder hierarchy* using Microsoft Windows Explorer *and
 tagstore*.
@@ -66,7 +66,7 @@ things such as evaluation scripts are in *English* though.
 
 * White Papers
 
-Several related white papers are linked [[http://tagstore.org/en/papers.shtml][on the tagstore homepage]].
+Several related white papers are linked [[https://karl-voit.at/tagstore/en/papers.shtml][on the tagstore homepage]].
 
 * License
 
